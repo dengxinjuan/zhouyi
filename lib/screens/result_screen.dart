@@ -253,7 +253,7 @@ class _HexagramGlowPainter extends CustomPainter {
   const _HexagramGlowPainter({
     required this.lineProgress,
     required this.glowPass,
-  });
+  }) : super(repaint: lineProgress.isEmpty ? null : Listenable.merge(lineProgress));
 
   final List<Animation<double>> lineProgress;
   final double glowPass;
@@ -338,7 +338,6 @@ class _HexagramGlowPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(covariant _HexagramGlowPainter oldDelegate) {
-    return oldDelegate.glowPass != glowPass ||
-        oldDelegate.lineProgress != lineProgress;
+    return oldDelegate.glowPass != glowPass;
   }
 }
