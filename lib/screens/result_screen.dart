@@ -250,7 +250,7 @@ class _HexagramView extends StatelessWidget {
 }
 
 class _HexagramGlowPainter extends CustomPainter {
-  const _HexagramGlowPainter({
+  _HexagramGlowPainter({
     required this.lineProgress,
     required this.glowPass,
   }) : super(repaint: lineProgress.isEmpty ? null : Listenable.merge(lineProgress));
