@@ -49,7 +49,19 @@ class _ShakeScreenState extends State<ShakeScreen>
         return;
       }
       Navigator.of(context).pushReplacement(
-        MaterialPageRoute(builder: (_) => const FormingScreen()),
+        PageRouteBuilder(
+          transitionDuration: const Duration(milliseconds: 700),
+          pageBuilder: (_, __, ___) => const FormingScreen(),
+          transitionsBuilder: (_, animation, __, child) {
+            return Stack(
+              fit: StackFit.expand,
+              children: [
+                Positioned.fill(child: const TransitionBackground()),
+                FadeTransition(opacity: animation, child: child),
+              ],
+            );
+          },
+        ),
       );
       return;
     }

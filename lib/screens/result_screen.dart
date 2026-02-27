@@ -84,6 +84,7 @@ class _ResultScreenState extends State<ResultScreen>
     final hexWidth = base * 0.38;
 
     return Scaffold(
+      backgroundColor: const Color(0xFF090811),
       body: Container(
         decoration: const BoxDecoration(
           gradient: LinearGradient(

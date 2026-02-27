@@ -3,6 +3,7 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
+import '../widgets/star_field.dart';
 import 'result_screen.dart';
 
 class FormingScreen extends StatefulWidget {
@@ -50,9 +51,16 @@ class _FormingScreenState extends State<FormingScreen>
       if (status == AnimationStatus.completed && mounted) {
         Navigator.of(context).pushReplacement(
           PageRouteBuilder(
+            transitionDuration: const Duration(milliseconds: 700),
             pageBuilder: (_, __, ___) => const ResultScreen(),
             transitionsBuilder: (_, animation, __, child) {
-              return FadeTransition(opacity: animation, child: child);
+              return Stack(
+                fit: StackFit.expand,
+                children: [
+                  Positioned.fill(child: const TransitionBackground()),
+                  FadeTransition(opacity: animation, child: child),
+                ],
+              );
             },
           ),
         );
@@ -76,6 +84,7 @@ class _FormingScreenState extends State<FormingScreen>
     final hexSize = base * 0.36;
 
     return Scaffold(
+      backgroundColor: const Color(0xFF1A1238), // Purple so fade-out shows purple, not black
       body: FadeTransition(
         opacity: Tween<double>(begin: 1, end: 0).animate(
           CurvedAnimation(parent: _fadeOutController, curve: Curves.easeInOut),
