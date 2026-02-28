@@ -1,0 +1,2570 @@
+{
+  "_meta": {
+    "binary_convention": "bottom_to_top",
+    "yin": "0",
+    "yang": "1",
+    "version": 1
+  },
+  "hexagrams": [
+    {
+      "id": 1,
+      "name_cn": "乾",
+      "name_en": "The Creative",
+      "binary": "111111",
+      "classical": {
+        "judgment_cn": "元亨利贞。",
+        "lines_cn": {
+          "1": "初九：潜龙勿用。",
+          "2": "九二：见龙在田，利见大人。",
+          "3": "九三：君子终日乾乾，夕惕若厉，无咎。",
+          "4": "九四：或跃在渊，无咎。",
+          "5": "九五：飞龙在天，利见大人。",
+          "6": "上九：亢龙有悔。",
+          "extra": "用九：见群龙无首，吉。"
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征强大的创造力与主动精神。适合坚定前行，但需保持节制与清醒。",
+        "summary_en": "This hexagram represents strong creative force and initiative. Move forward with confidence, but remain disciplined and aware of limits.",
+        "lines_explained_cn": {
+          "1": "时机尚未成熟，应低调积累力量。",
+          "2": "能力开始被看见，可以寻求合作与支持。",
+          "3": "持续努力，但要警惕过度消耗自己。",
+          "4": "正处转折阶段，行动前需深思熟虑。",
+          "5": "处于最佳位置，应承担责任与领导角色。",
+          "6": "过度强势可能带来反弹与后悔。",
+          "extra": "整体强调协调与谦逊的重要性。"
+        },
+        "lines_explained_en": {
+          "1": "The time is not yet ripe; conserve your strength quietly.",
+          "2": "Your abilities begin to be recognized—seek collaboration and guidance.",
+          "3": "Stay diligent, but avoid exhausting yourself through constant pressure.",
+          "4": "You are at a turning point—act with careful reflection.",
+          "5": "You are in a position of influence—lead responsibly.",
+          "6": "Excessive force or pride may lead to regret.",
+          "extra": "The overall message highlights coordination and humility."
+        }
+      }
+    },
+    {
+      "id": 2,
+      "name_cn": "坤",
+      "name_en": "The Receptive",
+      "binary": "000000",
+      "classical": {
+        "judgment_cn": "元亨，利牝马之贞。君子有攸往，先迷后得主，利。西南得朋，东北丧朋。安贞吉。",
+        "lines_cn": {
+          "1": "初六：履霜，坚冰至。",
+          "2": "六二：直方大，不习无不利。",
+          "3": "六三：含章可贞。或从王事，无成有终。",
+          "4": "六四：括囊，无咎无誉。",
+          "5": "六五：黄裳，元吉。",
+          "6": "上六：龙战于野，其血玄黄。",
+          "extra": "用六：利永贞。"
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征顺应与包容。当前适合配合局势，以柔克刚，稳步前行。",
+        "summary_en": "This hexagram represents receptivity and alignment. Progress comes through adaptability and steady cooperation rather than force.",
+        "lines_explained_cn": {
+          "1": "细微迹象提醒你，问题可能正在酝酿。",
+          "2": "保持正直与稳重，自然会带来顺利。",
+          "3": "内在力量尚未完全显露，耐心等待时机。",
+          "4": "低调行事，不求声誉。",
+          "5": "以朴实与稳定获得真正的吉祥。",
+          "6": "若冲突升级，可能带来两败俱伤。",
+          "extra": "坚持长久的稳定与正直最为重要。"
+        },
+        "lines_explained_en": {
+          "1": "Small signs suggest future difficulties—stay attentive.",
+          "2": "Maintain integrity and steadiness; benefits will follow naturally.",
+          "3": "Inner strength is present but not yet visible—be patient.",
+          "4": "Keep a low profile and avoid seeking recognition.",
+          "5": "True good fortune arises from humility and balance.",
+          "6": "Escalated conflict can lead to mutual harm.",
+          "extra": "Long-term stability and integrity are key."
+        }
+      }
+    },
+    {
+      "id": 3,
+      "name_cn": "屯",
+      "name_en": "Difficulty at the Beginning",
+      "binary": "100010",
+      "classical": {
+        "judgment_cn": "元亨利贞。勿用有攸往，利建侯。",
+        "lines_cn": {
+          "1": "初九：磐桓，利居贞，利建侯。",
+          "2": "六二：屯如邅如，乘马班如。匪寇婚媾，女子贞不字，十年乃字。",
+          "3": "六三：即鹿无虞，惟入于林中，君子几，不如舍，往吝。",
+          "4": "六四：乘马班如，求婚媾，往吉，无不利。",
+          "5": "九五：屯其膏，小贞吉，大贞凶。",
+          "6": "上六：乘马班如，泣血涟如。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征初始阶段的困难与混乱。需保持耐心与清醒，避免仓促决定。",
+        "summary_en": "This hexagram reflects the turbulence of new beginnings. Patience and clarity are essential during early uncertainty.",
+        "lines_explained_cn": {
+          "1": "局势尚未稳定，应守住原则。",
+          "2": "反复与拖延是过程的一部分。",
+          "3": "盲目追逐目标可能迷失方向。",
+          "4": "主动建立合作关系有助于突破。",
+          "5": "资源有限，应谨慎使用。",
+          "6": "若持续混乱，可能带来情绪耗损。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Stability has not yet formed—hold firmly to your principles.",
+          "2": "Delays and complications are part of the process.",
+          "3": "Chasing blindly may lead you off course.",
+          "4": "Forming alliances can help overcome obstacles.",
+          "5": "Resources are limited—use them wisely.",
+          "6": "Ongoing confusion may drain emotional energy.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 4,
+      "name_cn": "蒙",
+      "name_en": "Youthful Folly",
+      "binary": "010001",
+      "classical": {
+        "judgment_cn": "亨。匪我求童蒙，童蒙求我。初筮告，再三渎，渎则不告。利贞。",
+        "lines_cn": {
+          "1": "初六：发蒙，利用刑人，用说桎梏，以往吝。",
+          "2": "九二：包蒙吉。纳妇吉。子克家。",
+          "3": "六三：勿用取女，见金夫，不有躬，无攸利。",
+          "4": "六四：困蒙，吝。",
+          "5": "六五：童蒙，吉。",
+          "6": "上九：击蒙，不利为寇，利御寇。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征学习与启蒙。当前需要谦逊与耐心，而非急于求成。",
+        "summary_en": "This hexagram represents learning and early development. Approach the situation with humility and openness rather than haste.",
+        "lines_explained_cn": {
+          "1": "需要打破旧的限制，才能真正成长。",
+          "2": "包容与教导带来稳定发展。",
+          "3": "若只看重表象，容易误判。",
+          "4": "固执会使困境加深。",
+          "5": "保持纯粹与好奇心是优势。",
+          "6": "过度严厉反而可能适得其反。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Old constraints must be released to allow growth.",
+          "2": "Patience and guidance support steady development.",
+          "3": "Focusing only on appearances may lead to misjudgment.",
+          "4": "Stubbornness deepens difficulty.",
+          "5": "Simplicity and curiosity are strengths.",
+          "6": "Excessive force in correction may backfire.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 5,
+      "name_cn": "需",
+      "name_en": "Waiting",
+      "binary": "010111",
+      "classical": {
+        "judgment_cn": "有孚，光亨，贞吉。利涉大川。",
+        "lines_cn": {
+          "1": "初九：需于郊。利用恒，无咎。",
+          "2": "九二：需于沙。小有言，终吉。",
+          "3": "九三：需于泥，致寇至。",
+          "4": "六四：需于血，出自穴。",
+          "5": "九五：需于酒食，贞吉。",
+          "6": "上六：入于穴，有不速之客三人来，敬之终吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦强调等待与准备。当前阶段不宜强行推进，应稳住节奏，等待条件成熟再行动。",
+        "summary_en": "This hexagram emphasizes patience and preparation. Avoid forcing progress; steady positioning and timing matter most.",
+        "lines_explained_cn": {
+          "1": "刚开始阶段，先把基础打稳，耐心等待。",
+          "2": "会有小摩擦或质疑，但不影响整体方向。",
+          "3": "若过于急切，容易引来麻烦或冲突。",
+          "4": "局势紧张时，先保护自己并及时抽身。",
+          "5": "条件正在成熟，保持从容，稳步推进即可。",
+          "6": "出现意外访客或变数时，以尊重与克制化解，最终有利。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "At the beginning, focus on building a solid foundation and wait calmly.",
+          "2": "Minor friction or doubts may arise, but they won't change the overall direction.",
+          "3": "If you push too hard, you may invite trouble or conflict.",
+          "4": "When things feel tense, prioritize safety and step back if needed.",
+          "5": "Conditions are ripening—stay composed and move forward steadily.",
+          "6": "Unexpected visitors or changes may appear; handle them with respect and restraint for a favorable outcome.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 6,
+      "name_cn": "讼",
+      "name_en": "Conflict",
+      "binary": "111010",
+      "classical": {
+        "judgment_cn": "有孚窒惕，中吉，终凶。利见大人，不利涉大川。",
+        "lines_cn": {
+          "1": "初六：不永所事，小有言，终吉。",
+          "2": "九二：不克讼，归而逋，其邑人三百户，无眚。",
+          "3": "六三：食旧德，贞厉，终吉。或从王事，无成。",
+          "4": "九四：不克讼，复即命，渝安贞，吉。",
+          "5": "九五：讼，元吉。",
+          "6": "上九：或锡之鞶带，终朝三褫之。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征争议与冲突。面对分歧时，应谨慎表达立场，避免情绪化对抗。",
+        "summary_en": "This hexagram represents dispute and tension. Handle disagreements carefully and avoid emotional escalation.",
+        "lines_explained_cn": {
+          "1": "小争执不必扩大，及时止损为宜。",
+          "2": "若处于劣势，不如退一步以保全。",
+          "3": "守住本分，不必卷入更深纷争。",
+          "4": "主动修正态度，可恢复平衡。",
+          "5": "公平公正带来最佳结果。",
+          "6": "表面的胜利可能难以持久。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Do not escalate minor disputes; withdraw early if needed.",
+          "2": "If at a disadvantage, stepping back may prevent harm.",
+          "3": "Stay within your boundaries and avoid deeper conflict.",
+          "4": "Adjusting your stance can restore balance.",
+          "5": "Fairness brings the best outcome.",
+          "6": "A visible victory may not endure.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 7,
+      "name_cn": "师",
+      "name_en": "The Army",
+      "binary": "000010",
+      "classical": {
+        "judgment_cn": "贞，丈人吉，无咎。",
+        "lines_cn": {
+          "1": "初六：师出以律，否臧凶。",
+          "2": "九二：在师中，吉，无咎。王三锡命。",
+          "3": "六三：师或舆尸，凶。",
+          "4": "六四：师左次，无咎。",
+          "5": "六五：田有禽，利执言，无咎。长子帅师，弟子舆尸，贞凶。",
+          "6": "上六：大君有命，开国承家，小人勿用。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征组织与纪律。关键在于明确方向与正直领导。",
+        "summary_en": "This hexagram represents organization and disciplined effort. Clear direction and integrity are essential.",
+        "lines_explained_cn": {
+          "1": "行动前应确立规则与秩序。",
+          "2": "核心位置的人需承担责任。",
+          "3": "若失去协调，可能导致失败。",
+          "4": "适时暂停并非软弱。",
+          "5": "分工明确有助于成功。",
+          "6": "成功后仍需谨慎用人。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Establish order before taking action.",
+          "2": "Those at the center must lead responsibly.",
+          "3": "Lack of coordination may bring setbacks.",
+          "4": "Strategic pause is not weakness.",
+          "5": "Clear roles support success.",
+          "6": "Even after victory, choose people wisely.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 8,
+      "name_cn": "比",
+      "name_en": "Holding Together",
+      "binary": "010000",
+      "classical": {
+        "judgment_cn": "吉。原筮，元永贞，无咎。不宁方来，后夫凶。",
+        "lines_cn": {
+          "1": "初六：有孚比之，无咎。有孚盈缶，终来有他，吉。",
+          "2": "六二：比之自内，贞吉。",
+          "3": "六三：比之匪人。",
+          "4": "六四：外比之，贞吉。",
+          "5": "九五：显比，王用三驱，失前禽，邑人不诫，吉。",
+          "6": "上六：比之无首，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征团结与信任。关键在于真诚与正确的归属。",
+        "summary_en": "This hexagram represents unity and trust. Genuine alignment and shared purpose are essential.",
+        "lines_explained_cn": {
+          "1": "以真诚建立关系，逐步稳固。",
+          "2": "内在的认同带来吉祥。",
+          "3": "若跟随错误的人，易失方向。",
+          "4": "对外合作需保持原则。",
+          "5": "领导者应以公正凝聚人心。",
+          "6": "缺乏核心会导致混乱。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Build relationships through sincerity.",
+          "2": "Inner alignment brings stability.",
+          "3": "Following the wrong people leads astray.",
+          "4": "Cooperate externally while holding principles.",
+          "5": "Fair leadership unites others.",
+          "6": "Without a center, unity collapses.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 9,
+      "name_cn": "小畜",
+      "name_en": "The Taming Power of the Small",
+      "binary": "110111",
+      "classical": {
+        "judgment_cn": "亨。密云不雨，自我西郊。",
+        "lines_cn": {
+          "1": "初九：复自道，何其咎，吉。",
+          "2": "九二：牵复，吉。",
+          "3": "九三：舆说辐，夫妻反目。",
+          "4": "六四：有孚，血去惕出，无咎。",
+          "5": "九五：有孚挛如，富以其邻。",
+          "6": "上九：既雨既处，尚德载，妇贞厉。月几望，君子征凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征微小力量的积累。当前阶段重在耐心与细节管理。",
+        "summary_en": "This hexagram reflects gradual accumulation. Patience and attention to small details are key.",
+        "lines_explained_cn": {
+          "1": "回归正道，问题自然缓解。",
+          "2": "坚持原则可保持稳定。",
+          "3": "内部失衡可能导致关系紧张。",
+          "4": "真诚有助于消除隐忧。",
+          "5": "信任促进共同成长。",
+          "6": "过度行动可能带来风险。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Return to your path and stability follows.",
+          "2": "Consistency sustains progress.",
+          "3": "Internal imbalance may strain relationships.",
+          "4": "Sincerity eases hidden concerns.",
+          "5": "Trust supports shared growth.",
+          "6": "Overreaching may create risk.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 10,
+      "name_cn": "履",
+      "name_en": "Treading",
+      "binary": "111011",
+      "classical": {
+        "judgment_cn": "履虎尾，不咥人，亨。",
+        "lines_cn": {
+          "1": "初九：素履，往无咎。",
+          "2": "九二：履道坦坦，幽人贞吉。",
+          "3": "六三：眇能视，跛能履。履虎尾，咥人，凶。武人为于大君。",
+          "4": "九四：履虎尾，愬愬，终吉。",
+          "5": "九五：夬履，贞厉。",
+          "6": "上九：视履考祥，其旋元吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征谨慎行事。处于敏感局势时，应小心而坚定。",
+        "summary_en": "This hexagram represents careful conduct. In delicate situations, move forward with awareness and composure.",
+        "lines_explained_cn": {
+          "1": "以朴实态度前行即可。",
+          "2": "保持内在平静与正直。",
+          "3": "自信不足却冒进，易招风险。",
+          "4": "谨慎而勇敢，可化险为夷。",
+          "5": "果断行动需承担压力。",
+          "6": "回顾行动，可见吉兆。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Proceed simply and honestly.",
+          "2": "Maintain inner calm and integrity.",
+          "3": "Bold action without clarity invites danger.",
+          "4": "Caution combined with courage leads to success.",
+          "5": "Decisive action carries responsibility.",
+          "6": "Reflection reveals favorable direction.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 11,
+      "name_cn": "泰",
+      "name_en": "Peace",
+      "binary": "111000",
+      "classical": {
+        "judgment_cn": "小往大来，吉亨。",
+        "lines_cn": {
+          "1": "初九：拔茅茹，以其汇，征吉。",
+          "2": "九二：包荒，用冯河，不遐遗，朋亡，得尚于中行。",
+          "3": "九三：无平不陂，无往不复。艰贞无咎。勿恤其孚，于食有福。",
+          "4": "六四：翩翩不富，以其邻，不戒以孚。",
+          "5": "六五：帝乙归妹，以祉元吉。",
+          "6": "上六：城复于隍，勿用师。自邑告命，贞吝。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征通达与和谐。顺畅的阶段需要持续的平衡与自律。",
+        "summary_en": "This hexagram represents harmony and smooth progress. Even in favorable times, balance and discipline remain essential.",
+        "lines_explained_cn": {
+          "1": "良好的开端会带动整体发展。",
+          "2": "包容差异可增强稳定。",
+          "3": "顺境中仍需警惕变化。",
+          "4": "与邻里保持信任关系。",
+          "5": "通过正当结合带来长久吉祥。",
+          "6": "安逸过久可能带来衰退。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "A positive beginning influences the whole.",
+          "2": "Inclusiveness strengthens stability.",
+          "3": "Even in ease, remain alert to change.",
+          "4": "Maintain trust within your circle.",
+          "5": "Right alliances bring lasting benefit.",
+          "6": "Comfort left unchecked may decline.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 12,
+      "name_cn": "否",
+      "name_en": "Stagnation",
+      "binary": "000111",
+      "classical": {
+        "judgment_cn": "否之匪人，不利君子贞，大往小来。",
+        "lines_cn": {
+          "1": "初六：拔茅茹，以其汇，贞吉亨。",
+          "2": "六二：包承，小人吉，大人否亨。",
+          "3": "六三：包羞。",
+          "4": "九四：有命无咎，畴离祉。",
+          "5": "九五：休否，大人吉。其亡其亡，系于苞桑。",
+          "6": "上九：倾否，先否后喜。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征阻滞与隔阂。关键在于保持正直与耐心，等待转机。",
+        "summary_en": "This hexagram represents blockage and disconnection. Integrity and patience prepare the way for renewal.",
+        "lines_explained_cn": {
+          "1": "在困境中仍可保持原则。",
+          "2": "顺势而为，避免强求。",
+          "3": "内心的不安需要正视。",
+          "4": "承担责任可带来转机。",
+          "5": "低谷中酝酿着改变。",
+          "6": "停滞终会结束。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Hold to your principles amid difficulty.",
+          "2": "Avoid forcing progress.",
+          "3": "Acknowledge inner discomfort.",
+          "4": "Responsibility creates opportunity.",
+          "5": "Transformation forms in low points.",
+          "6": "Stagnation eventually shifts.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 13,
+      "name_cn": "同人",
+      "name_en": "Fellowship",
+      "binary": "101111",
+      "classical": {
+        "judgment_cn": "同人于野，亨。利涉大川，利君子贞。",
+        "lines_cn": {
+          "1": "初九：同人于门，无咎。",
+          "2": "六二：同人于宗，吝。",
+          "3": "九三：伏戎于莽，升其高陵，三岁不兴。",
+          "4": "九四：乘其墉，弗克攻，吉。",
+          "5": "九五：同人，先号咷而后笑。大师克相遇。",
+          "6": "上九：同人于郊，无悔。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征共同目标与协作。真正的团结建立在开放与包容之上。",
+        "summary_en": "This hexagram represents shared purpose and cooperation. True unity grows from openness.",
+        "lines_explained_cn": {
+          "1": "从小范围建立信任。",
+          "2": "过于局限可能带来阻碍。",
+          "3": "防备过度会延误发展。",
+          "4": "克制冲突有助于合作。",
+          "5": "经历波折后达成真正联合。",
+          "6": "广泛合作带来安心。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Begin with trust in close circles.",
+          "2": "Overly narrow bonds limit growth.",
+          "3": "Excess suspicion delays progress.",
+          "4": "Restraint supports collaboration.",
+          "5": "After tension comes genuine unity.",
+          "6": "Wider fellowship brings peace.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 14,
+      "name_cn": "大有",
+      "name_en": "Great Possession",
+      "binary": "111101",
+      "classical": {
+        "judgment_cn": "元亨。",
+        "lines_cn": {
+          "1": "初九：无交害，匪咎，艰则无咎。",
+          "2": "九二：大车以载，有攸往，无咎。",
+          "3": "九三：公用亨于天子，小人弗克。",
+          "4": "九四：匪其彭，无咎。",
+          "5": "六五：厥孚交如，威如，吉。",
+          "6": "上九：自天佑之，吉无不利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征丰盛与资源充足。关键在于节制与责任。",
+        "summary_en": "This hexagram represents abundance and resources. Responsible stewardship ensures lasting benefit.",
+        "lines_explained_cn": {
+          "1": "避免无谓冲突。",
+          "2": "利用资源稳步前行。",
+          "3": "承担重任需能力匹配。",
+          "4": "谦逊可避免过度张扬。",
+          "5": "诚信与威信并重。",
+          "6": "顺势而为可持续发展。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Avoid unnecessary conflict.",
+          "2": "Use resources wisely.",
+          "3": "Responsibility requires capability.",
+          "4": "Humility prevents excess.",
+          "5": "Balance trust and authority.",
+          "6": "Alignment brings enduring success.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 15,
+      "name_cn": "谦",
+      "name_en": "Modesty",
+      "binary": "001000",
+      "classical": {
+        "judgment_cn": "亨。君子有终。",
+        "lines_cn": {
+          "1": "初六：谦谦君子，用涉大川，吉。",
+          "2": "六二：鸣谦，贞吉。",
+          "3": "九三：劳谦，君子有终，吉。",
+          "4": "六四：无不利，撝谦。",
+          "5": "六五：不富以其邻，利用侵伐，无不利。",
+          "6": "上六：鸣谦，利用行师，征邑国。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征谦逊与内在力量。低调与稳重带来长远发展。",
+        "summary_en": "This hexagram represents humility and inner strength. Quiet steadiness leads to lasting success.",
+        "lines_explained_cn": {
+          "1": "以谦逊态度开启行动。",
+          "2": "适度表达自信。",
+          "3": "努力而不张扬。",
+          "4": "谦让使人受益。",
+          "5": "合作胜过竞争。",
+          "6": "谦逊中蕴含行动力。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Begin with modesty.",
+          "2": "Express confidence gently.",
+          "3": "Work diligently without display.",
+          "4": "Humility benefits all.",
+          "5": "Cooperation outweighs rivalry.",
+          "6": "Action can arise from modesty.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 16,
+      "name_cn": "豫",
+      "name_en": "Enthusiasm",
+      "binary": "000100",
+      "classical": {
+        "judgment_cn": "利建侯行师。",
+        "lines_cn": {
+          "1": "初六：鸣豫，凶。",
+          "2": "六二：介于石，不终日，贞吉。",
+          "3": "六三：盱豫，悔。迟有悔。",
+          "4": "九四：由豫，大有得。勿疑，朋盍簪。",
+          "5": "六五：贞疾，恒不死。",
+          "6": "上六：冥豫，成有渝，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征动力与情绪的唤起。积极的能量需要方向与节制。",
+        "summary_en": "This hexagram represents rising enthusiasm. Energy must be guided with clarity and restraint.",
+        "lines_explained_cn": {
+          "1": "盲目兴奋可能带来失误。",
+          "2": "在坚定与冷静中找到平衡。",
+          "3": "犹豫不决会产生后悔。",
+          "4": "信任合作能带来收获。",
+          "5": "保持恒心可避免衰退。",
+          "6": "情绪波动后仍可调整方向。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Unfocused excitement may cause mistakes.",
+          "2": "Balance firmness with calm reflection.",
+          "3": "Hesitation can create regret.",
+          "4": "Trust and cooperation bring gain.",
+          "5": "Consistency prevents decline.",
+          "6": "After emotional shifts, realignment is possible.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 17,
+      "name_cn": "随",
+      "name_en": "Following",
+      "binary": "100110",
+      "classical": {
+        "judgment_cn": "元亨利贞，无咎。",
+        "lines_cn": {
+          "1": "初九：官有渝，贞吉。出门交有功。",
+          "2": "六二：系小子，失丈夫。",
+          "3": "六三：系丈夫，失小子。随有求得，利居贞。",
+          "4": "九四：随有获，贞凶。有孚在道，以明，何咎。",
+          "5": "九五：孚于嘉，吉。",
+          "6": "上六：拘系之，乃从维之。王用亨于西山。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征顺势而行。选择正确的方向比盲目坚持更重要。",
+        "summary_en": "This hexagram represents adapting to circumstances. Choosing wisely matters more than rigid persistence.",
+        "lines_explained_cn": {
+          "1": "灵活调整有助于进展。",
+          "2": "依附错误对象会失去机会。",
+          "3": "做出取舍，专注关键。",
+          "4": "即使有收获，也需谨慎。",
+          "5": "信任带来良好结果。",
+          "6": "最终归于更高的原则。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Flexibility supports progress.",
+          "2": "Attachment to the wrong focus costs opportunity.",
+          "3": "Choose carefully and stay centered.",
+          "4": "Even success requires caution.",
+          "5": "Trust yields positive outcomes.",
+          "6": "Return to higher principles in the end.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 18,
+      "name_cn": "蛊",
+      "name_en": "Work on What Has Been Spoiled",
+      "binary": "011001",
+      "classical": {
+        "judgment_cn": "元亨，利涉大川。先甲三日，后甲三日。",
+        "lines_cn": {
+          "1": "初六：干父之蛊，有子，考无咎，厉终吉。",
+          "2": "九二：干母之蛊，不可贞。",
+          "3": "九三：干父之蛊，小有悔，无大咎。",
+          "4": "六四：裕父之蛊，往见吝。",
+          "5": "六五：干父之蛊，用誉。",
+          "6": "上九：不事王侯，高尚其事。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征修正与整顿。面对旧问题，需要主动承担与调整。",
+        "summary_en": "This hexagram represents repair and correction. Addressing past issues requires responsibility and renewal.",
+        "lines_explained_cn": {
+          "1": "承担修复责任可带来改善。",
+          "2": "处理敏感事务需谨慎。",
+          "3": "小错误可修正。",
+          "4": "拖延修复会加重问题。",
+          "5": "积极改正带来认可。",
+          "6": "超越局限，追求更高标准。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Taking responsibility restores balance.",
+          "2": "Sensitive corrections require care.",
+          "3": "Minor errors can be fixed.",
+          "4": "Delay worsens the issue.",
+          "5": "Active correction earns respect.",
+          "6": "Rise above limitations.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 19,
+      "name_cn": "临",
+      "name_en": "Approach",
+      "binary": "110000",
+      "classical": {
+        "judgment_cn": "元亨利贞。至于八月有凶。",
+        "lines_cn": {
+          "1": "初九：咸临，贞吉。",
+          "2": "九二：咸临，吉无不利。",
+          "3": "六三：甘临，无攸利。既忧之，无咎。",
+          "4": "六四：至临，无咎。",
+          "5": "六五：知临，大君之宜，吉。",
+          "6": "上六：敦临，吉无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征接近与机遇。主动靠近机会，但需保持节奏。",
+        "summary_en": "This hexagram represents approaching opportunity. Move forward thoughtfully and with timing.",
+        "lines_explained_cn": {
+          "1": "初步接触带来正向发展。",
+          "2": "积极靠近有利。",
+          "3": "过度轻率可能失利。",
+          "4": "稳健接近带来安全。",
+          "5": "明智领导引导前行。",
+          "6": "以厚道姿态结束阶段。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Initial approach brings promise.",
+          "2": "Positive engagement benefits all.",
+          "3": "Carelessness may weaken progress.",
+          "4": "Steady approach ensures safety.",
+          "5": "Wise leadership guides the way.",
+          "6": "Conclude with integrity.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 20,
+      "name_cn": "观",
+      "name_en": "Contemplation",
+      "binary": "000011",
+      "classical": {
+        "judgment_cn": "盥而不荐，有孚颙若。",
+        "lines_cn": {
+          "1": "初六：童观，小人无咎，君子吝。",
+          "2": "六二：窥观，利女贞。",
+          "3": "六三：观我生，进退。",
+          "4": "六四：观国之光，利用宾于王。",
+          "5": "九五：观我生，君子无咎。",
+          "6": "上九：观其生，君子无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征观察与反思。暂停行动，以更清晰的视角理解局势。",
+        "summary_en": "This hexagram represents observation and reflection. Pause action to gain clearer understanding.",
+        "lines_explained_cn": {
+          "1": "浅层观察难以把握全局。",
+          "2": "细致观察有助判断。",
+          "3": "反思自身决定方向。",
+          "4": "从更高层面审视局势。",
+          "5": "以成熟态度看待问题。",
+          "6": "深度洞察带来安定。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Superficial observation limits insight.",
+          "2": "Careful viewing improves clarity.",
+          "3": "Self-reflection guides decisions.",
+          "4": "See the broader picture.",
+          "5": "Mature perspective prevents error.",
+          "6": "Deep insight brings steadiness.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 21,
+      "name_cn": "噬嗑",
+      "name_en": "Biting Through",
+      "binary": "101001",
+      "classical": {
+        "judgment_cn": "亨。利用狱。",
+        "lines_cn": {
+          "1": "初九：屦校灭趾，无咎。",
+          "2": "六二：噬肤灭鼻，无咎。",
+          "3": "六三：噬腊肉，遇毒，小吝，无咎。",
+          "4": "九四：噬干胏，得金矢，利艰贞，吉。",
+          "5": "六五：噬干肉，得黄金，贞厉，无咎。",
+          "6": "上九：何校灭耳，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征解决阻碍。面对问题时，应果断处理核心矛盾。",
+        "summary_en": "This hexagram represents resolving obstacles. Address issues directly and decisively.",
+        "lines_explained_cn": {
+          "1": "小问题及时处理即可。",
+          "2": "轻微损失不影响整体。",
+          "3": "过程中可能遇到阻力，但可化解。",
+          "4": "坚定执行有助突破。",
+          "5": "在压力下仍需保持原则。",
+          "6": "忽视警示可能带来损失。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Deal with minor issues early.",
+          "2": "Small setbacks do not derail progress.",
+          "3": "Resistance may appear but can be managed.",
+          "4": "Firm action enables breakthrough.",
+          "5": "Hold principles even under strain.",
+          "6": "Ignoring warnings leads to loss.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 22,
+      "name_cn": "贲",
+      "name_en": "Grace",
+      "binary": "100101",
+      "classical": {
+        "judgment_cn": "亨。小利有攸往。",
+        "lines_cn": {
+          "1": "初九：贲其趾，舍车而徒。",
+          "2": "六二：贲其须。",
+          "3": "九三：贲如濡如，永贞吉。",
+          "4": "六四：贲如皤如，白马翰如，匪寇婚媾。",
+          "5": "六五：贲于丘园，束帛戋戋，吝，终吉。",
+          "6": "上九：白贲，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征修饰与表达。外在形式需服务于内在真实。",
+        "summary_en": "This hexagram represents refinement and expression. Appearance should reflect genuine substance.",
+        "lines_explained_cn": {
+          "1": "简朴行动更稳妥。",
+          "2": "细节装饰不宜过度。",
+          "3": "保持真实与持久。",
+          "4": "外表与内心需一致。",
+          "5": "适度修饰终能带来收获。",
+          "6": "回归纯粹最为安稳。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Simplicity supports stability.",
+          "2": "Avoid excessive embellishment.",
+          "3": "Sustain authenticity.",
+          "4": "Outer form should match inner truth.",
+          "5": "Moderate refinement yields benefit.",
+          "6": "Return to simplicity.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 23,
+      "name_cn": "剥",
+      "name_en": "Splitting Apart",
+      "binary": "000001",
+      "classical": {
+        "judgment_cn": "不利有攸往。",
+        "lines_cn": {
+          "1": "初六：剥床以足，蔑贞凶。",
+          "2": "六二：剥床以辨，蔑贞凶。",
+          "3": "六三：剥之，无咎。",
+          "4": "六四：剥床以肤，凶。",
+          "5": "六五：贯鱼，以宫人宠，无不利。",
+          "6": "上九：硕果不食，君子得舆，小人剥庐。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征衰退与剥离。当前阶段宜守，不宜扩张。",
+        "summary_en": "This hexagram represents decline and stripping away. Preserve rather than expand.",
+        "lines_explained_cn": {
+          "1": "基础开始动摇。",
+          "2": "问题逐渐扩大。",
+          "3": "适度退让可保安全。",
+          "4": "失去支撑会带来风险。",
+          "5": "适当依附可保持稳定。",
+          "6": "危机中仍存转机。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Foundations begin to weaken.",
+          "2": "Instability increases.",
+          "3": "Strategic retreat preserves safety.",
+          "4": "Loss of support is risky.",
+          "5": "Alignment may sustain stability.",
+          "6": "Even in decline, renewal is possible.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 24,
+      "name_cn": "复",
+      "name_en": "Return",
+      "binary": "100000",
+      "classical": {
+        "judgment_cn": "亨。出入无疾，朋来无咎。反复其道，七日来复，利有攸往。",
+        "lines_cn": {
+          "1": "初九：不远复，无祇悔，元吉。",
+          "2": "六二：休复，吉。",
+          "3": "六三：频复，厉无咎。",
+          "4": "六四：中行独复。",
+          "5": "六五：敦复，无悔。",
+          "6": "上六：迷复，凶，有灾眚。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征回归与更新。修正方向后可重新开始。",
+        "summary_en": "This hexagram represents renewal and return. After correction, progress resumes.",
+        "lines_explained_cn": {
+          "1": "及时回头避免损失。",
+          "2": "顺利回归正轨。",
+          "3": "反复调整仍可改进。",
+          "4": "独立反思带来成长。",
+          "5": "坚定回归无须后悔。",
+          "6": "若执迷不悟，风险加大。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Early correction prevents harm.",
+          "2": "Smoothly return to balance.",
+          "3": "Repeated adjustments still help.",
+          "4": "Independent reflection strengthens resolve.",
+          "5": "Firm return removes regret.",
+          "6": "Refusal to change increases risk.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 25,
+      "name_cn": "无妄",
+      "name_en": "Innocence",
+      "binary": "100111",
+      "classical": {
+        "judgment_cn": "元亨利贞。其匪正有眚，不利有攸往。",
+        "lines_cn": {
+          "1": "初九：无妄往，吉。",
+          "2": "六二：不耕获，不菑畬，则利有攸往。",
+          "3": "六三：无妄之灾，或系之牛，行人之得，邑人之灾。",
+          "4": "九四：可贞，无咎。",
+          "5": "九五：无妄之疾，勿药有喜。",
+          "6": "上九：无妄行，有眚，无攸利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征纯正与自然之道。保持真诚比刻意谋划更重要。",
+        "summary_en": "This hexagram represents sincerity and natural alignment. Authenticity outweighs forced ambition.",
+        "lines_explained_cn": {
+          "1": "真诚行动带来顺利。",
+          "2": "顺其自然反而有利。",
+          "3": "意外事件需冷静应对。",
+          "4": "保持正直可免过失。",
+          "5": "无需过度担忧，小问题自解。",
+          "6": "盲目行动易生损失。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Sincere action brings benefit.",
+          "2": "Natural flow supports progress.",
+          "3": "Unexpected events require composure.",
+          "4": "Integrity prevents error.",
+          "5": "Do not overreact; small issues resolve.",
+          "6": "Reckless action invites trouble.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 26,
+      "name_cn": "大畜",
+      "name_en": "The Taming Power of the Great",
+      "binary": "111001",
+      "classical": {
+        "judgment_cn": "利贞。不家食吉，利涉大川。",
+        "lines_cn": {
+          "1": "初九：有厉，利已。",
+          "2": "九二：舆说辐。",
+          "3": "九三：良马逐，利艰贞。曰闲舆卫，利有攸往。",
+          "4": "六四：童牛之牿，元吉。",
+          "5": "六五：豮豕之牙，吉。",
+          "6": "上九：何天之衢，亨。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征积累与约束。通过自律与耐心积聚力量。",
+        "summary_en": "This hexagram represents accumulation through discipline. Strength grows through restraint and preparation.",
+        "lines_explained_cn": {
+          "1": "在压力下暂缓行动更稳妥。",
+          "2": "暂时停滞是调整阶段。",
+          "3": "持续努力终有进展。",
+          "4": "早期约束带来长期收益。",
+          "5": "控制冲动可获得平衡。",
+          "6": "时机成熟可顺利前行。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Pause under pressure.",
+          "2": "Temporary delay allows recalibration.",
+          "3": "Persistent effort yields progress.",
+          "4": "Early restraint supports long-term gain.",
+          "5": "Control impulses for balance.",
+          "6": "When ready, movement flows smoothly.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 27,
+      "name_cn": "颐",
+      "name_en": "Nourishment",
+      "binary": "100001",
+      "classical": {
+        "judgment_cn": "贞吉。观颐，自求口实。",
+        "lines_cn": {
+          "1": "初九：舍尔灵龟，观我朵颐，凶。",
+          "2": "六二：颠颐，拂经，于丘颐，征凶。",
+          "3": "六三：拂颐，贞凶，十年勿用，无攸利。",
+          "4": "六四：颠颐吉。虎视眈眈，其欲逐逐，无咎。",
+          "5": "六五：拂经，居贞吉，不可涉大川。",
+          "6": "上九：由颐，厉吉，利涉大川。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征滋养与自我修养。关注内在成长比外在追逐更重要。",
+        "summary_en": "This hexagram represents nourishment and self-cultivation. Inner growth matters more than external pursuit.",
+        "lines_explained_cn": {
+          "1": "忽视本质会带来失衡。",
+          "2": "偏离原则可能导致问题。",
+          "3": "长期忽视内在需要会受损。",
+          "4": "谨慎专注带来稳定。",
+          "5": "保持节制更安全。",
+          "6": "成熟后可承担更大挑战。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Neglecting essentials creates imbalance.",
+          "2": "Deviation from principles causes trouble.",
+          "3": "Ignoring inner needs weakens strength.",
+          "4": "Focused vigilance stabilizes growth.",
+          "5": "Moderation is safer.",
+          "6": "With maturity comes greater capacity.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 28,
+      "name_cn": "大过",
+      "name_en": "Great Exceeding",
+      "binary": "011110",
+      "classical": {
+        "judgment_cn": "栋桡，利有攸往，亨。",
+        "lines_cn": {
+          "1": "初六：藉用白茅，无咎。",
+          "2": "九二：枯杨生稊，老夫得其女妻，无不利。",
+          "3": "九三：栋桡，凶。",
+          "4": "九四：栋隆，吉。有它吝。",
+          "5": "九五：枯杨生华，老妇得其士夫，无咎无誉。",
+          "6": "上六：过涉灭顶，凶，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征压力过重。需调整结构以避免失衡。",
+        "summary_en": "This hexagram represents excess pressure. Structural adjustment prevents collapse.",
+        "lines_explained_cn": {
+          "1": "稳固基础是首要。",
+          "2": "新的生机可能出现。",
+          "3": "承载过重会带来危险。",
+          "4": "加强支撑有助恢复。",
+          "5": "短暂复苏仍需谨慎。",
+          "6": "过度冒险可能失败。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Secure the foundation.",
+          "2": "Unexpected renewal may arise.",
+          "3": "Overburden invites danger.",
+          "4": "Reinforcement restores strength.",
+          "5": "Temporary revival requires caution.",
+          "6": "Excessive risk leads to failure.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 29,
+      "name_cn": "坎",
+      "name_en": "The Abysmal",
+      "binary": "010010",
+      "classical": {
+        "judgment_cn": "习坎，有孚，维心亨，行有尚。",
+        "lines_cn": {
+          "1": "初六：习坎，入于坎窞，凶。",
+          "2": "九二：坎有险，求小得。",
+          "3": "六三：来之坎坎，险且枕，入于坎窞，勿用。",
+          "4": "六四：樽酒簋贰，用缶，纳约自牖，终无咎。",
+          "5": "九五：坎不盈，祗既平，无咎。",
+          "6": "上六：系用徽纆，寘于丛棘，三岁不得，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征险境与挑战。通过冷静与坚持穿越困难。",
+        "summary_en": "This hexagram represents danger and depth. Calm endurance leads through difficulty.",
+        "lines_explained_cn": {
+          "1": "盲目深入风险加大。",
+          "2": "在险境中仍可小有收获。",
+          "3": "连续挑战需暂停反思。",
+          "4": "简朴诚意有助化解。",
+          "5": "平稳渡过最危险阶段。",
+          "6": "若长期受困需改变方式。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Entering blindly increases risk.",
+          "2": "Small gains are possible amid danger.",
+          "3": "Pause when challenges repeat.",
+          "4": "Sincerity eases hardship.",
+          "5": "The worst phase levels out.",
+          "6": "Prolonged entrapment requires change.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 30,
+      "name_cn": "离",
+      "name_en": "The Clinging, Fire",
+      "binary": "101101",
+      "classical": {
+        "judgment_cn": "利贞，亨。畜牝牛，吉。",
+        "lines_cn": {
+          "1": "初九：履错然，敬之无咎。",
+          "2": "六二：黄离，元吉。",
+          "3": "九三：日昃之离，不鼓缶而歌，则大耋之嗟，凶。",
+          "4": "九四：突如其来如，焚如，死如，弃如。",
+          "5": "六五：出涕沱若，戚嗟若，吉。",
+          "6": "上九：王用出征，有嘉折首，获匪其丑，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征光明与依附。清晰的意识与温和的坚持带来成长。",
+        "summary_en": "This hexagram represents clarity and illumination. Awareness and gentle persistence sustain growth.",
+        "lines_explained_cn": {
+          "1": "保持敬慎避免失误。",
+          "2": "稳定中心带来吉祥。",
+          "3": "忽视变化会失去平衡。",
+          "4": "突然冲动可能带来破坏。",
+          "5": "情绪释放后重获平衡。",
+          "6": "坚定行动需符合原则。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Stay attentive to avoid error.",
+          "2": "Centered clarity brings benefit.",
+          "3": "Ignoring shifts disrupts balance.",
+          "4": "Sudden intensity may burn out.",
+          "5": "Emotional release restores harmony.",
+          "6": "Firm action must align with values.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 31,
+      "name_cn": "咸",
+      "name_en": "Influence",
+      "binary": "001110",
+      "classical": {
+        "judgment_cn": "亨。利贞。取女吉。",
+        "lines_cn": {
+          "1": "初六：咸其拇。",
+          "2": "六二：咸其腓，凶，居吉。",
+          "3": "九三：咸其股，执其随，往吝。",
+          "4": "九四：贞吉，悔亡。憧憧往来，朋从尔思。",
+          "5": "九五：咸其脢，无悔。",
+          "6": "上六：咸其辅颊舌。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征感应与影响。真诚互动比强行推动更有效。",
+        "summary_en": "This hexagram represents mutual influence. Genuine responsiveness works better than force.",
+        "lines_explained_cn": {
+          "1": "微小互动已产生影响。",
+          "2": "情绪化行动可能失利。",
+          "3": "盲目追随会受限。",
+          "4": "内外协调可获得支持。",
+          "5": "深层共鸣带来稳定。",
+          "6": "言语影响尤需谨慎。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Small signals already create impact.",
+          "2": "Emotional reactions may hinder progress.",
+          "3": "Blind following limits growth.",
+          "4": "Balanced engagement earns support.",
+          "5": "Deep resonance stabilizes bonds.",
+          "6": "Words carry powerful influence.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 32,
+      "name_cn": "恒",
+      "name_en": "Duration",
+      "binary": "011100",
+      "classical": {
+        "judgment_cn": "亨。无咎。利贞。利有攸往。",
+        "lines_cn": {
+          "1": "初六：浚恒，贞凶，无攸利。",
+          "2": "九二：悔亡。",
+          "3": "九三：不恒其德，或承之羞，贞吝。",
+          "4": "九四：田无禽。",
+          "5": "六五：恒其德，贞，妇人吉，夫子凶。",
+          "6": "上六：振恒，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征持久与稳定。持续一致比短期冲动更重要。",
+        "summary_en": "This hexagram represents endurance and consistency. Steady commitment outweighs impulse.",
+        "lines_explained_cn": {
+          "1": "过度深入反而失衡。",
+          "2": "保持稳定即可消除悔意。",
+          "3": "缺乏持续性会带来尴尬。",
+          "4": "努力方向需调整。",
+          "5": "长期坚持最为关键。",
+          "6": "剧烈变动可能破坏稳定。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Overextension disrupts balance.",
+          "2": "Stability removes regret.",
+          "3": "Inconsistency invites embarrassment.",
+          "4": "Effort may need redirection.",
+          "5": "Long-term steadiness brings benefit.",
+          "6": "Sudden upheaval damages endurance.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 33,
+      "name_cn": "遁",
+      "name_en": "Retreat",
+      "binary": "001111",
+      "classical": {
+        "judgment_cn": "亨。小利贞。",
+        "lines_cn": {
+          "1": "初六：遁尾，厉，勿用有攸往。",
+          "2": "六二：执之用黄牛之革，莫之胜说。",
+          "3": "九三：系遁，有疾厉，畜臣妾吉。",
+          "4": "九四：好遁，君子吉，小人否。",
+          "5": "九五：嘉遁，贞吉。",
+          "6": "上九：肥遁，无不利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征退守与自保。适时抽身是智慧而非逃避。",
+        "summary_en": "This hexagram represents strategic retreat. Withdrawal at the right time shows wisdom.",
+        "lines_explained_cn": {
+          "1": "过晚撤退会增加风险。",
+          "2": "坚定立场不易动摇。",
+          "3": "纠缠不清会消耗精力。",
+          "4": "主动退让可保全实力。",
+          "5": "从容退出最为吉祥。",
+          "6": "彻底抽身带来自由。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Delayed retreat increases danger.",
+          "2": "Firm resolve prevents pressure.",
+          "3": "Entanglement drains energy.",
+          "4": "Conscious withdrawal preserves strength.",
+          "5": "Graceful exit brings peace.",
+          "6": "Complete disengagement restores freedom.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 34,
+      "name_cn": "大壮",
+      "name_en": "Great Power",
+      "binary": "111100",
+      "classical": {
+        "judgment_cn": "利贞。",
+        "lines_cn": {
+          "1": "初九：壮于趾，征凶，有孚。",
+          "2": "九二：贞吉。",
+          "3": "九三：小人用壮，君子用罔，贞厉。",
+          "4": "九四：贞吉，悔亡。藩决不羸，壮于大舆之輹。",
+          "5": "六五：丧羊于易，无悔。",
+          "6": "上六：羝羊触藩，不能退，不能遂，无攸利，艰则吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征力量增强。强势之时更需节制与理性。",
+        "summary_en": "This hexagram represents rising strength. Power requires restraint and clarity.",
+        "lines_explained_cn": {
+          "1": "贸然行动可能受挫。",
+          "2": "稳健坚持带来吉祥。",
+          "3": "滥用力量易失衡。",
+          "4": "坚定而不过度扩张。",
+          "5": "适当放下可减轻负担。",
+          "6": "冲撞过度会受限。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Rash action risks setback.",
+          "2": "Steady confidence brings benefit.",
+          "3": "Misused strength destabilizes.",
+          "4": "Firmness without excess succeeds.",
+          "5": "Letting go relieves strain.",
+          "6": "Overforce creates blockage.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 35,
+      "name_cn": "晋",
+      "name_en": "Progress",
+      "binary": "000101",
+      "classical": {
+        "judgment_cn": "康侯用锡马蕃庶，昼日三接。",
+        "lines_cn": {
+          "1": "初六：晋如摧如，贞吉。罔孚，裕无咎。",
+          "2": "六二：晋如愁如，贞吉。受兹介福，于其王母。",
+          "3": "六三：众允，悔亡。",
+          "4": "九四：晋如鼫鼠，贞厉。",
+          "5": "六五：悔亡，失得勿恤，往吉无不利。",
+          "6": "上九：晋其角，维用伐邑，厉吉无咎，贞吝。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征前进与提升。稳健发展比急速扩张更持久。",
+        "summary_en": "This hexagram represents advancement. Sustainable growth outweighs rapid expansion.",
+        "lines_explained_cn": {
+          "1": "初期发展伴随波动。",
+          "2": "保持正直终得支持。",
+          "3": "团队认可能消除顾虑。",
+          "4": "过于谨慎会错失机会。",
+          "5": "放下得失更利前行。",
+          "6": "扩张需考虑风险。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Early progress may fluctuate.",
+          "2": "Integrity gains support.",
+          "3": "Collective trust removes doubt.",
+          "4": "Excess caution limits growth.",
+          "5": "Release attachment to outcomes.",
+          "6": "Expansion requires caution.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 36,
+      "name_cn": "明夷",
+      "name_en": "Darkening of the Light",
+      "binary": "101000",
+      "classical": {
+        "judgment_cn": "利艰贞。",
+        "lines_cn": {
+          "1": "初九：明夷于飞，垂其翼。君子于行，三日不食，有攸往，主人有言。",
+          "2": "六二：明夷，夷于左股，用拯马壮，吉。",
+          "3": "九三：明夷于南狩，得其大首，不可疾贞。",
+          "4": "六四：入于左腹，获明夷之心，于出门庭。",
+          "5": "六五：箕子之明夷，利贞。",
+          "6": "上六：不明晦，初登于天，后入于地。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征光明受阻。处于逆境时，应隐藏锋芒、保持内在坚定。",
+        "summary_en": "This hexagram represents obscured clarity. In difficult times, protect your light and remain inwardly steady.",
+        "lines_explained_cn": {
+          "1": "暂时收敛行动以避免损耗。",
+          "2": "在受限中寻找可行突破。",
+          "3": "面对关键挑战需沉稳处理。",
+          "4": "洞察核心问题后再行动。",
+          "5": "保持正直是最重要的支撑。",
+          "6": "过度张扬后易陷低谷。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Withdraw briefly to conserve strength.",
+          "2": "Find workable solutions within limits.",
+          "3": "Handle major challenges calmly.",
+          "4": "Understand the core before acting.",
+          "5": "Integrity sustains resilience.",
+          "6": "Overexposure may lead to decline.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 37,
+      "name_cn": "家人",
+      "name_en": "The Family",
+      "binary": "101011",
+      "classical": {
+        "judgment_cn": "利女贞。",
+        "lines_cn": {
+          "1": "初九：闲有家，悔亡。",
+          "2": "六二：无攸遂，在中馈，贞吉。",
+          "3": "九三：家人嗃嗃，悔厉吉；妇子嘻嘻，终吝。",
+          "4": "六四：富家，大吉。",
+          "5": "九五：王假有家，勿恤，吉。",
+          "6": "上九：有孚威如，终吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征秩序与责任。稳固的关系建立在清晰角色与信任之上。",
+        "summary_en": "This hexagram represents order and responsibility. Strong relationships rely on clarity and trust.",
+        "lines_explained_cn": {
+          "1": "建立规则可避免混乱。",
+          "2": "专注本分带来稳定。",
+          "3": "过严或过松都会失衡。",
+          "4": "资源与秩序并行。",
+          "5": "以关怀维系整体。",
+          "6": "威信源自诚信。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Structure prevents disorder.",
+          "2": "Fulfilling your role brings stability.",
+          "3": "Excess severity or laxity destabilizes.",
+          "4": "Prosperity grows with order.",
+          "5": "Care strengthens unity.",
+          "6": "Authority arises from trust.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 38,
+      "name_cn": "睽",
+      "name_en": "Opposition",
+      "binary": "110101",
+      "classical": {
+        "judgment_cn": "小事吉。",
+        "lines_cn": {
+          "1": "初九：悔亡，丧马勿逐，自复；见恶人，无咎。",
+          "2": "九二：遇主于巷，无咎。",
+          "3": "六三：见舆曳，其牛掣，其人天且劓，无初有终。",
+          "4": "九四：睽孤，遇元夫，交孚，厉无咎。",
+          "5": "六五：悔亡。厥宗噬肤，往何咎。",
+          "6": "上九：睽孤，见豕负涂，载鬼一车，先张之弧，后说之弧，匪寇婚媾，往遇雨则吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征分歧与差异。理解不同视角有助化解对立。",
+        "summary_en": "This hexagram represents divergence. Recognizing differences reduces tension.",
+        "lines_explained_cn": {
+          "1": "误解可自行消散。",
+          "2": "小范围沟通有效。",
+          "3": "冲突后仍有修复空间。",
+          "4": "在孤立中找到共鸣。",
+          "5": "主动缓和关系。",
+          "6": "误会终能化解。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Misunderstandings may resolve naturally.",
+          "2": "Direct dialogue helps.",
+          "3": "Conflict can still end well.",
+          "4": "Connection emerges from isolation.",
+          "5": "Initiative eases division.",
+          "6": "Tension may transform into harmony.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 39,
+      "name_cn": "蹇",
+      "name_en": "Obstruction",
+      "binary": "001010",
+      "classical": {
+        "judgment_cn": "利西南，不利东北。利见大人，贞吉。",
+        "lines_cn": {
+          "1": "初六：往蹇，来誉。",
+          "2": "六二：王臣蹇蹇，匪躬之故。",
+          "3": "九三：往蹇来反。",
+          "4": "六四：往蹇来连。",
+          "5": "九五：大蹇，朋来。",
+          "6": "上六：往蹇来硕，吉。利见大人。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征阻碍与停滞。面对困难应调整方向而非硬闯。",
+        "summary_en": "This hexagram represents obstacles. Adjust course rather than force passage.",
+        "lines_explained_cn": {
+          "1": "前行困难时可退一步。",
+          "2": "承担责任但不必自责。",
+          "3": "往返调整以寻找路径。",
+          "4": "联结他人有助突破。",
+          "5": "大困难中有援助。",
+          "6": "最终通过智慧化解。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Step back when forward motion stalls.",
+          "2": "Take responsibility without self-blame.",
+          "3": "Recalibration reveals options.",
+          "4": "Support from others helps.",
+          "5": "Major obstacles attract allies.",
+          "6": "Wisdom clears the path.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 40,
+      "name_cn": "解",
+      "name_en": "Deliverance",
+      "binary": "010100",
+      "classical": {
+        "judgment_cn": "利西南。无所往，其来复吉。有攸往，夙吉。",
+        "lines_cn": {
+          "1": "初六：无咎。",
+          "2": "九二：田获三狐，得黄矢，贞吉。",
+          "3": "六三：负且乘，致寇至，贞吝。",
+          "4": "九四：解而拇，朋至斯孚。",
+          "5": "六五：君子维有解，吉；有孚于小人。",
+          "6": "上六：公用射隼于高墉之上，获之，无不利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征释放与缓解。问题逐渐化解，行动可重新展开。",
+        "summary_en": "This hexagram represents release. Tension eases and movement becomes possible again.",
+        "lines_explained_cn": {
+          "1": "局势开始缓和。",
+          "2": "努力带来实际成果。",
+          "3": "若自负可能引发麻烦。",
+          "4": "放下执念可获得支持。",
+          "5": "宽容带来信任。",
+          "6": "彻底解决问题。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "The situation begins to soften.",
+          "2": "Focused effort yields results.",
+          "3": "Arrogance invites trouble.",
+          "4": "Letting go gains allies.",
+          "5": "Generosity builds trust.",
+          "6": "Resolution becomes complete.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 41,
+      "name_cn": "损",
+      "name_en": "Decrease",
+      "binary": "110001",
+      "classical": {
+        "judgment_cn": "有孚，元吉，无咎，可贞，利有攸往。曷之用，二簋可用享。",
+        "lines_cn": {
+          "1": "初九：已事遄往，无咎，酌损之。",
+          "2": "九二：利贞，征凶，弗损益之。",
+          "3": "六三：三人行，则损一人；一人行，则得其友。",
+          "4": "六四：损其疾，使遄有喜，无咎。",
+          "5": "六五：或益之十朋之龟，弗克违，元吉。",
+          "6": "上九：弗损益之，无咎，贞吉，利有攸往，得臣无家。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征减少与取舍。主动舍弃不必要之物，反而带来平衡。",
+        "summary_en": "This hexagram represents conscious reduction. Letting go restores balance.",
+        "lines_explained_cn": {
+          "1": "及时调整可避免损失扩大。",
+          "2": "不必强行削减核心利益。",
+          "3": "过度分散会削弱力量。",
+          "4": "去除问题源头带来轻松。",
+          "5": "适度减少反而获得支持。",
+          "6": "减少过度即是另一种增长。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Quick adjustment prevents escalation.",
+          "2": "Do not cut into essential stability.",
+          "3": "Too much dispersion weakens strength.",
+          "4": "Remove the root issue.",
+          "5": "Reduction can attract support.",
+          "6": "Balanced restraint becomes gain.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 42,
+      "name_cn": "益",
+      "name_en": "Increase",
+      "binary": "100011",
+      "classical": {
+        "judgment_cn": "利有攸往，利涉大川。",
+        "lines_cn": {
+          "1": "初九：利用为大作，元吉，无咎。",
+          "2": "六二：或益之十朋之龟，弗克违，永贞吉。王用享于帝，吉。",
+          "3": "六三：益之用凶事，无咎。有孚中行，告公用圭。",
+          "4": "六四：中行，告公从。利用为依迁国。",
+          "5": "九五：有孚惠心，勿问元吉。有孚惠我德。",
+          "6": "上九：莫益之，或击之，立心勿恒，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征增长与扩展。增长应基于互惠与正当原则。",
+        "summary_en": "This hexagram represents growth. Expansion should be mutual and principled.",
+        "lines_explained_cn": {
+          "1": "适合启动重要计划。",
+          "2": "稳固增长可持续。",
+          "3": "困难中仍可获得益处。",
+          "4": "合作带来更大成果。",
+          "5": "以善意推动成长。",
+          "6": "过度扩张反而招致损失。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Good time to initiate major work.",
+          "2": "Sustained growth is stable growth.",
+          "3": "Even hardship can produce gain.",
+          "4": "Collaboration multiplies success.",
+          "5": "Growth through goodwill.",
+          "6": "Excessive expansion invites backlash.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 43,
+      "name_cn": "夬",
+      "name_en": "Breakthrough",
+      "binary": "111110",
+      "classical": {
+        "judgment_cn": "扬于王庭，孚号有厉。告自邑，不利即戎，利有攸往。",
+        "lines_cn": {
+          "1": "初九：壮于前趾，往不胜为咎。",
+          "2": "九二：惕号，莫夜有戎，勿恤。",
+          "3": "九三：壮于頄，有凶。君子夬夬，独行遇雨若濡，有愠无咎。",
+          "4": "九四：臀无肤，其行次且。牵羊悔亡，闻言不信。",
+          "5": "九五：苋陆夬夬，中行无咎。",
+          "6": "上六：无号，终有凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征决断与突破。面对阻碍需要明确表态与果断行动。",
+        "summary_en": "This hexagram represents decisive breakthrough. Clear stance and action resolve obstruction.",
+        "lines_explained_cn": {
+          "1": "过早强攻易失败。",
+          "2": "保持警觉即可。",
+          "3": "单独承担压力需沉稳。",
+          "4": "犹豫会延缓进展。",
+          "5": "坚定立场带来顺畅。",
+          "6": "缺乏表达会导致误解。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Premature force fails.",
+          "2": "Remain alert but calm.",
+          "3": "Stand firm even alone.",
+          "4": "Hesitation slows progress.",
+          "5": "Clear resolve brings flow.",
+          "6": "Silence may create danger.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 44,
+      "name_cn": "姤",
+      "name_en": "Coming to Meet",
+      "binary": "011111",
+      "classical": {
+        "judgment_cn": "女壮，勿用取女。",
+        "lines_cn": {
+          "1": "初六：系于金柅，贞吉。有攸往，见凶。羸豕孚踟躅。",
+          "2": "九二：包有鱼，无咎，不利宾。",
+          "3": "九三：臀无肤，其行次且，厉，无大咎。",
+          "4": "九四：包无鱼，起凶。",
+          "5": "九五：以杞包瓜，含章，有陨自天。",
+          "6": "上九：姤其角，吝，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征突然相遇。新的因素出现，需要谨慎应对。",
+        "summary_en": "This hexagram represents unexpected encounter. New influences require careful handling.",
+        "lines_explained_cn": {
+          "1": "初期应谨慎观察。",
+          "2": "掌控局面避免外泄。",
+          "3": "行动不稳需调整。",
+          "4": "错失机会带来波动。",
+          "5": "稳重应对变化。",
+          "6": "过度坚持可能失衡。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Observe before engaging.",
+          "2": "Maintain control.",
+          "3": "Unsteady action needs correction.",
+          "4": "Missed opportunity causes shift.",
+          "5": "Respond with composure.",
+          "6": "Overassertion destabilizes.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 45,
+      "name_cn": "萃",
+      "name_en": "Gathering Together",
+      "binary": "000110",
+      "classical": {
+        "judgment_cn": "亨。王假有庙。利见大人，亨，利贞。用大牲吉，利有攸往。",
+        "lines_cn": {
+          "1": "初六：有孚不终，乃乱乃萃，若号，一握为笑，勿恤，往无咎。",
+          "2": "六二：引吉，无咎。孚乃利用禴。",
+          "3": "六三：萃如嗟如，无攸利。往无咎，小吝。",
+          "4": "九四：大吉，无咎。",
+          "5": "九五：萃有位，无咎。匪孚，元永贞，悔亡。",
+          "6": "上六：赍咨涕洟，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征聚集与整合。群体力量需要明确中心与秩序。",
+        "summary_en": "This hexagram represents gathering and unity. Collective strength needs structure and clarity.",
+        "lines_explained_cn": {
+          "1": "情绪波动后可恢复。",
+          "2": "真诚聚合带来吉祥。",
+          "3": "杂乱聚集无益。",
+          "4": "核心稳固则成功。",
+          "5": "中心稳定可维持秩序。",
+          "6": "情绪释放后归于平静。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Emotional fluctuation settles.",
+          "2": "Sincere unity prospers.",
+          "3": "Disorganized gathering fails.",
+          "4": "Strong center ensures success.",
+          "5": "Stable leadership maintains order.",
+          "6": "Release emotion, regain calm.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 46,
+      "name_cn": "升",
+      "name_en": "Pushing Upward",
+      "binary": "011000",
+      "classical": {
+        "judgment_cn": "元亨。用见大人，勿恤。南征吉。",
+        "lines_cn": {
+          "1": "初六：允升，大吉。",
+          "2": "九二：孚乃利用禴，无咎。",
+          "3": "九三：升虚邑。",
+          "4": "六四：王用亨于岐山，吉，无咎。",
+          "5": "六五：贞吉，升阶。",
+          "6": "上六：冥升，利于不息之贞。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征稳步上升。持续努力比快速攀升更稳固。",
+        "summary_en": "This hexagram represents steady ascent. Gradual effort builds lasting elevation.",
+        "lines_explained_cn": {
+          "1": "良好开端促进发展。",
+          "2": "真诚推动前行。",
+          "3": "基础未稳时需谨慎。",
+          "4": "得到支持更易成功。",
+          "5": "循序渐进最为安全。",
+          "6": "持续坚持终见成果。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Strong beginning supports growth.",
+          "2": "Sincerity advances progress.",
+          "3": "Unstable ground requires caution.",
+          "4": "Support accelerates success.",
+          "5": "Step-by-step rise is safest.",
+          "6": "Perseverance ensures elevation.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 47,
+      "name_cn": "困",
+      "name_en": "Oppression",
+      "binary": "010110",
+      "classical": {
+        "judgment_cn": "亨。贞大人吉，无咎。有言不信。",
+        "lines_cn": {
+          "1": "初六：臀困于株木，入于幽谷，三岁不觌。",
+          "2": "九二：困于酒食，朱绂方来，利用亨祀。征凶，无咎。",
+          "3": "六三：困于石，据于蒺藜，入于其宫，不见其妻，凶。",
+          "4": "九四：来徐徐，困于金车，吝，有终。",
+          "5": "九五：劓刖，困于赤绂，乃徐有说，利用祭祀。",
+          "6": "上六：困于葛藟，于臲卼，曰动悔，有悔，征吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征压抑与困境。内在坚守比外在突破更重要。",
+        "summary_en": "This hexagram represents confinement. Inner resilience matters more than outward struggle.",
+        "lines_explained_cn": {
+          "1": "短期孤立需忍耐。",
+          "2": "物质压力中仍可守正。",
+          "3": "错误判断加剧困境。",
+          "4": "缓慢进展终有转机。",
+          "5": "在压力中保持信念。",
+          "6": "主动改变带来解脱。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Temporary isolation requires patience.",
+          "2": "Hold integrity amid pressure.",
+          "3": "Misjudgment deepens difficulty.",
+          "4": "Slow movement still leads forward.",
+          "5": "Faith endures hardship.",
+          "6": "Change opens release.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 48,
+      "name_cn": "井",
+      "name_en": "The Well",
+      "binary": "011010",
+      "classical": {
+        "judgment_cn": "改邑不改井，无丧无得。往来井井。汔至亦未繘井，羸其瓶，凶。",
+        "lines_cn": {
+          "1": "初六：井泥不食，旧井无禽。",
+          "2": "九二：井谷射鲋，瓮敝漏。",
+          "3": "九三：井渫不食，为我心恻。可用汲，王明，并受其福。",
+          "4": "六四：井甃，无咎。",
+          "5": "九五：井冽寒泉，食。",
+          "6": "上六：井收勿幕，有孚元吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征资源与共享。稳定资源需要持续维护。",
+        "summary_en": "This hexagram represents shared resources. Maintenance sustains collective benefit.",
+        "lines_explained_cn": {
+          "1": "忽视资源会失效。",
+          "2": "使用方式需改进。",
+          "3": "价值存在但未被利用。",
+          "4": "修整可恢复功能。",
+          "5": "资源充足可供共享。",
+          "6": "开放共享带来吉祥。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Neglected resources decay.",
+          "2": "Usage requires refinement.",
+          "3": "Value exists but is untapped.",
+          "4": "Repair restores usefulness.",
+          "5": "Abundance serves all.",
+          "6": "Open sharing brings prosperity.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 49,
+      "name_cn": "革",
+      "name_en": "Revolution",
+      "binary": "101110",
+      "classical": {
+        "judgment_cn": "己日乃孚，元亨利贞。悔亡。",
+        "lines_cn": {
+          "1": "初九：巩用黄牛之革。",
+          "2": "六二：己日乃革之，征吉，无咎。",
+          "3": "九三：征凶，贞厉。革言三就，有孚。",
+          "4": "九四：悔亡，有孚改命，吉。",
+          "5": "九五：大人虎变，未占有孚。",
+          "6": "上六：君子豹变，小人革面，征凶，居贞吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征变革与转型。改变需时机与正当理由。",
+        "summary_en": "This hexagram represents transformation. Change must be timely and justified.",
+        "lines_explained_cn": {
+          "1": "先稳固基础再变革。",
+          "2": "时机成熟再行动。",
+          "3": "贸然变动会受阻。",
+          "4": "调整方向带来新机遇。",
+          "5": "领导转型影响深远。",
+          "6": "表面改变不足以持久。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Secure foundations before change.",
+          "2": "Act when timing aligns.",
+          "3": "Premature reform fails.",
+          "4": "Adaptation opens new paths.",
+          "5": "Leadership shapes transformation.",
+          "6": "Surface change is not enough.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 50,
+      "name_cn": "鼎",
+      "name_en": "The Cauldron",
+      "binary": "011101",
+      "classical": {
+        "judgment_cn": "元吉，亨。",
+        "lines_cn": {
+          "1": "初六：鼎颠趾，利出否，得妾以其子，无咎。",
+          "2": "九二：鼎有实，我仇有疾，不我能即，吉。",
+          "3": "九三：鼎耳革，其行塞，雉膏不食，方雨亏悔，终吉。",
+          "4": "九四：鼎折足，覆公餗，其形渥，凶。",
+          "5": "六五：鼎黄耳金铉，利贞。",
+          "6": "上九：鼎玉铉，大吉，无不利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征转化与滋养。通过内在提升实现质变。",
+        "summary_en": "This hexagram represents transformation through refinement. Inner cultivation creates lasting change.",
+        "lines_explained_cn": {
+          "1": "从混乱中重新调整。",
+          "2": "充实自身即可稳固。",
+          "3": "阻滞后仍有转机。",
+          "4": "结构不稳易失败。",
+          "5": "稳健结构带来成功。",
+          "6": "成熟后达到圆满。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Reorganize from instability.",
+          "2": "Self-sufficiency stabilizes.",
+          "3": "Blockage eventually clears.",
+          "4": "Weak structure collapses.",
+          "5": "Stable framework ensures success.",
+          "6": "Maturity brings fulfillment.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 51,
+      "name_cn": "震",
+      "name_en": "The Arousing (Thunder)",
+      "binary": "100100",
+      "classical": {
+        "judgment_cn": "亨。震来虩虩，笑言哑哑。震惊百里，不丧匕鬯。",
+        "lines_cn": {
+          "1": "初九：震来虩虩，后笑言哑哑，吉。",
+          "2": "六二：震来厉，亿丧贝，跻于九陵，勿逐，七日得。",
+          "3": "六三：震苏苏，震行无眚。",
+          "4": "九四：震遂泥。",
+          "5": "六五：震往来厉，亿无丧，有事。",
+          "6": "上六：震索索，视矍矍，征凶，震不于其躬，于其邻，无咎。婚媾有言。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征突发与震动。突如其来的变化可唤醒潜在力量。",
+        "summary_en": "This hexagram represents shock and awakening. Sudden change can activate hidden strength.",
+        "lines_explained_cn": {
+          "1": "惊吓后恢复平静。",
+          "2": "短暂损失终会回归。",
+          "3": "适应震动可避免伤害。",
+          "4": "行动受阻需调整。",
+          "5": "在动荡中保持核心。",
+          "6": "外部震动未必伤及自身。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Shock fades into composure.",
+          "2": "Temporary loss returns.",
+          "3": "Adapt to avoid harm.",
+          "4": "Blocked movement needs correction.",
+          "5": "Stay centered amid turbulence.",
+          "6": "Not every shock strikes directly.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 52,
+      "name_cn": "艮",
+      "name_en": "Keeping Still (Mountain)",
+      "binary": "001001",
+      "classical": {
+        "judgment_cn": "艮其背，不获其身，行其庭，不见其人，无咎。",
+        "lines_cn": {
+          "1": "初六：艮其趾，无咎，利永贞。",
+          "2": "六二：艮其腓，不拯其随，其心不快。",
+          "3": "九三：艮其限，列其夤，厉熏心。",
+          "4": "六四：艮其身，无咎。",
+          "5": "六五：艮其辅，言有序，悔亡。",
+          "6": "上九：敦艮，吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征静止与自省。适时停止是为了更好前行。",
+        "summary_en": "This hexagram represents stillness and reflection. Pausing supports clarity.",
+        "lines_explained_cn": {
+          "1": "从细节开始稳住局面。",
+          "2": "情绪需调节。",
+          "3": "强行控制会带来压力。",
+          "4": "整体稳定无碍。",
+          "5": "表达有序化解问题。",
+          "6": "坚定沉稳带来吉祥。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Stabilize from the ground up.",
+          "2": "Regulate emotion.",
+          "3": "Overcontrol increases strain.",
+          "4": "Whole-body steadiness restores balance.",
+          "5": "Orderly speech resolves tension.",
+          "6": "Deep calm brings benefit.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 53,
+      "name_cn": "渐",
+      "name_en": "Development",
+      "binary": "001011",
+      "classical": {
+        "judgment_cn": "女归吉，利贞。",
+        "lines_cn": {
+          "1": "初六：鸿渐于干，小子厉，有言，无咎。",
+          "2": "六二：鸿渐于磐，饮食衎衎，吉。",
+          "3": "九三：鸿渐于陆，夫征不复，妇孕不育，凶。利御寇。",
+          "4": "六四：鸿渐于木，或得其桷，无咎。",
+          "5": "九五：鸿渐于陵，妇三岁不孕，终莫之胜，吉。",
+          "6": "上九：鸿渐于陆，其羽可用为仪，吉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征循序渐进。稳步发展胜过急速推进。",
+        "summary_en": "This hexagram represents gradual progress. Steady development ensures sustainability.",
+        "lines_explained_cn": {
+          "1": "初期不稳需耐心。",
+          "2": "逐步安定。",
+          "3": "贸然前进有风险。",
+          "4": "找到合适位置。",
+          "5": "等待时机成熟。",
+          "6": "最终形成典范。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Early stages require patience.",
+          "2": "Gradual stability forms.",
+          "3": "Rash movement risks loss.",
+          "4": "Secure your position.",
+          "5": "Timing brings success.",
+          "6": "Completion sets example.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 54,
+      "name_cn": "归妹",
+      "name_en": "The Marrying Maiden",
+      "binary": "110100",
+      "classical": {
+        "judgment_cn": "征凶，无攸利。",
+        "lines_cn": {
+          "1": "初九：归妹以娣，跛能履，征吉。",
+          "2": "九二：眇能视，利幽人之贞。",
+          "3": "六三：归妹以须，反归以娣。",
+          "4": "九四：归妹愆期，迟归有时。",
+          "5": "六五：帝乙归妹，其君之袂，不如其娣之袂良，月几望，吉。",
+          "6": "上六：女承筐无实，士刲羊无血，无攸利。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征角色与顺应。处于附属位置时需认清现实。",
+        "summary_en": "This hexagram represents adaptation within hierarchy. Recognize position and act wisely.",
+        "lines_explained_cn": {
+          "1": "条件有限仍可前行。",
+          "2": "专注内在原则。",
+          "3": "关系反复需谨慎。",
+          "4": "延迟未必不利。",
+          "5": "真实品质胜于表面。",
+          "6": "形式空洞无益。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Progress despite limitation.",
+          "2": "Hold to inner principles.",
+          "3": "Be cautious in unstable ties.",
+          "4": "Delay may be appropriate.",
+          "5": "Substance outweighs appearance.",
+          "6": "Empty form yields nothing.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 55,
+      "name_cn": "丰",
+      "name_en": "Abundance",
+      "binary": "101100",
+      "classical": {
+        "judgment_cn": "亨。王假之。勿忧，宜日中。",
+        "lines_cn": {
+          "1": "初九：遇其配主，虽旬无咎，往有尚。",
+          "2": "六二：丰其蔀，日中见斗，往得疑疾，有孚发若，吉。",
+          "3": "九三：丰其沛，日中见昧，折其右肱，无咎。",
+          "4": "九四：丰其蔀，日中见斗，遇其夷主，吉。",
+          "5": "六五：来章，有庆誉，吉。",
+          "6": "上六：丰其屋，蔀其家，窥其户，阒其无人，三岁不觌，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征繁盛与高峰。高光时刻更需谨慎管理。",
+        "summary_en": "This hexagram represents peak abundance. Prosperity requires careful stewardship.",
+        "lines_explained_cn": {
+          "1": "合适合作带来提升。",
+          "2": "光明中仍有盲点。",
+          "3": "过度扩张易受损。",
+          "4": "关键相遇带来转机。",
+          "5": "荣耀伴随责任。",
+          "6": "孤立繁荣终会衰退。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Partnership strengthens position.",
+          "2": "Even brightness has shadows.",
+          "3": "Overexpansion risks loss.",
+          "4": "Important meeting shifts direction.",
+          "5": "Honor carries duty.",
+          "6": "Isolated prosperity declines.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 56,
+      "name_cn": "旅",
+      "name_en": "The Wanderer",
+      "binary": "001101",
+      "classical": {
+        "judgment_cn": "小亨，旅贞吉。",
+        "lines_cn": {
+          "1": "初六：旅琐琐，斯其所取灾。",
+          "2": "六二：旅即次，怀其资，得童仆贞。",
+          "3": "九三：旅焚其次，丧其童仆，贞厉。",
+          "4": "九四：旅于处，得其资斧，我心不快。",
+          "5": "六五：射雉，一矢亡，终以誉命。",
+          "6": "上九：鸟焚其巢，旅人先笑后号啕，丧牛于易，凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征在外漂泊。环境不稳时应保持谨慎与自律。",
+        "summary_en": "This hexagram represents life away from home. When circumstances are unstable, remain cautious and self-contained.",
+        "lines_explained_cn": {
+          "1": "小心琐事避免损失。",
+          "2": "稳住资源即可安心。",
+          "3": "过度自信易失根基。",
+          "4": "暂居之地难以安稳。",
+          "5": "专注目标终得认可。",
+          "6": "失去依托会带来困境。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Avoid small careless losses.",
+          "2": "Secure resources for stability.",
+          "3": "Overconfidence risks foundation.",
+          "4": "Temporary position feels unsettled.",
+          "5": "Focus brings recognition.",
+          "6": "Losing support creates hardship.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 57,
+      "name_cn": "巽",
+      "name_en": "The Gentle (Wind)",
+      "binary": "011011",
+      "classical": {
+        "judgment_cn": "小亨。利攸往，利见大人。",
+        "lines_cn": {
+          "1": "初六：进退，利武人之贞。",
+          "2": "九二：巽在床下，用史巫纷若，吉无咎。",
+          "3": "九三：频巽，吝。",
+          "4": "六四：悔亡，田获三品。",
+          "5": "九五：贞吉，悔亡，无不利。无初有终。",
+          "6": "上九：巽在床下，丧其资斧，贞凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征渗透与柔顺。以柔克刚更易达成目标。",
+        "summary_en": "This hexagram represents gentle influence. Soft persistence can be more effective than force.",
+        "lines_explained_cn": {
+          "1": "进退之间需判断。",
+          "2": "低调行动带来成果。",
+          "3": "反复犹豫会失机。",
+          "4": "调整后有所收获。",
+          "5": "坚持柔和最终成功。",
+          "6": "失去原则会受损。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Discern when to advance or retreat.",
+          "2": "Quiet action succeeds.",
+          "3": "Indecision wastes opportunity.",
+          "4": "Adjustment yields reward.",
+          "5": "Gentle firmness succeeds.",
+          "6": "Losing principles invites trouble.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 58,
+      "name_cn": "兑",
+      "name_en": "The Joyous (Lake)",
+      "binary": "110110",
+      "classical": {
+        "judgment_cn": "亨，利贞。",
+        "lines_cn": {
+          "1": "初九：和兑，吉。",
+          "2": "九二：孚兑，吉，悔亡。",
+          "3": "六三：来兑，凶。",
+          "4": "九四：商兑，未宁，介疾有喜。",
+          "5": "九五：孚于剥，有厉。",
+          "6": "上六：引兑。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征喜悦与沟通。真诚表达能建立良好关系。",
+        "summary_en": "This hexagram represents joy and communication. Authentic exchange strengthens bonds.",
+        "lines_explained_cn": {
+          "1": "和谐互动带来吉祥。",
+          "2": "诚信消除悔意。",
+          "3": "虚假热情有风险。",
+          "4": "谈判需谨慎。",
+          "5": "信任中仍需警觉。",
+          "6": "过度讨好失去平衡。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Harmony creates benefit.",
+          "2": "Trust removes regret.",
+          "3": "False enthusiasm backfires.",
+          "4": "Negotiation requires care.",
+          "5": "Stay alert within trust.",
+          "6": "Over-pleasing destabilizes.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 59,
+      "name_cn": "涣",
+      "name_en": "Dispersion",
+      "binary": "010011",
+      "classical": {
+        "judgment_cn": "亨。王假有庙。利涉大川，利贞。",
+        "lines_cn": {
+          "1": "初六：用拯马壮，吉。",
+          "2": "九二：涣奔其机，悔亡。",
+          "3": "六三：涣其躬，无悔。",
+          "4": "六四：涣其群，元吉。",
+          "5": "九五：涣汗其大号，涣王居，无咎。",
+          "6": "上九：涣其血，去逖出，无咎。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征分散与疏解。释放紧张带来重新整合。",
+        "summary_en": "This hexagram represents dispersion and release. Clearing tension allows renewal.",
+        "lines_explained_cn": {
+          "1": "积极行动化解问题。",
+          "2": "抓住关键点。",
+          "3": "自我调整带来释然。",
+          "4": "团体重组成功。",
+          "5": "公开表达缓解压力。",
+          "6": "彻底释放带来平安。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Swift action dissolves issue.",
+          "2": "Return to the core mechanism.",
+          "3": "Self-adjustment frees tension.",
+          "4": "Group reorganization succeeds.",
+          "5": "Open declaration eases strain.",
+          "6": "Complete release restores peace.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 60,
+      "name_cn": "节",
+      "name_en": "Limitation",
+      "binary": "110010",
+      "classical": {
+        "judgment_cn": "亨。苦节不可贞。",
+        "lines_cn": {
+          "1": "初九：不出户庭，无咎。",
+          "2": "九二：不出门庭，凶。",
+          "3": "六三：不节若，则嗟若，无咎。",
+          "4": "六四：安节，亨。",
+          "5": "九五：甘节，吉；往有尚。",
+          "6": "上六：苦节，贞凶，悔亡。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征节制与界限。适度约束带来自由。",
+        "summary_en": "This hexagram represents moderation. Healthy limits create freedom.",
+        "lines_explained_cn": {
+          "1": "自律带来安全。",
+          "2": "过度封闭反生问题。",
+          "3": "失控后仍可修正。",
+          "4": "适度节制顺畅发展。",
+          "5": "愉悦的自律最持久。",
+          "6": "极端约束反而不利。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Self-discipline protects.",
+          "2": "Excess withdrawal harms.",
+          "3": "Correction remains possible.",
+          "4": "Balanced limits succeed.",
+          "5": "Joyful moderation lasts.",
+          "6": "Harsh restriction backfires.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 61,
+      "name_cn": "中孚",
+      "name_en": "Inner Truth",
+      "binary": "110011",
+      "classical": {
+        "judgment_cn": "豚鱼吉，利涉大川，利贞。",
+        "lines_cn": {
+          "1": "初九：虞吉，有它不燕。",
+          "2": "九二：鸣鹤在阴，其子和之，我有好爵，吾与尔靡之。",
+          "3": "六三：得敌，或鼓或罢，或泣或歌。",
+          "4": "六四：月几望，马匹亡，无咎。",
+          "5": "九五：有孚挛如，无咎。",
+          "6": "上九：翰音登于天，贞凶。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征诚信与内在信任。真实连接创造深层共鸣。",
+        "summary_en": "This hexagram represents sincerity and deep trust. Authentic connection builds resonance.",
+        "lines_explained_cn": {
+          "1": "保持专注避免干扰。",
+          "2": "真诚互动互相回应。",
+          "3": "情绪波动仍可调和。",
+          "4": "接近圆满但需警觉。",
+          "5": "坚定信任带来稳定。",
+          "6": "过度张扬信念会失衡。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Stay focused and undistracted.",
+          "2": "Sincerity invites response.",
+          "3": "Emotional swings can settle.",
+          "4": "Near fullness requires care.",
+          "5": "Trust stabilizes bonds.",
+          "6": "Overproclaiming belief risks imbalance.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 62,
+      "name_cn": "小过",
+      "name_en": "Small Exceeding",
+      "binary": "001100",
+      "classical": {
+        "judgment_cn": "亨。利贞。可小事，不可大事。",
+        "lines_cn": {
+          "1": "初六：飞鸟以凶。",
+          "2": "六二：过其祖，遇其妣；不及其君，遇其臣，无咎。",
+          "3": "九三：弗过防之，从或戕之，凶。",
+          "4": "九四：无咎，弗过遇之，往厉必戒。",
+          "5": "六五：密云不雨，自我西郊。",
+          "6": "上六：弗遇过之，飞鸟离之，凶，是谓灾眚。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征细微偏差。小事可行，大事需谨慎。",
+        "summary_en": "This hexagram represents minor excess. Small matters proceed; major ones require restraint.",
+        "lines_explained_cn": {
+          "1": "过度冒进会受挫。",
+          "2": "保持适度即可。",
+          "3": "忽视风险会出错。",
+          "4": "谨慎处理小事。",
+          "5": "时机尚未成熟。",
+          "6": "严重偏差带来损失。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Overreach causes harm.",
+          "2": "Moderation avoids trouble.",
+          "3": "Ignoring warning invites loss.",
+          "4": "Handle details carefully.",
+          "5": "Timing is not ripe.",
+          "6": "Major deviation brings damage.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 63,
+      "name_cn": "既济",
+      "name_en": "After Completion",
+      "binary": "101010",
+      "classical": {
+        "judgment_cn": "亨，小利贞，初吉终乱。",
+        "lines_cn": {
+          "1": "初九：曳其轮，濡其尾，无咎。",
+          "2": "六二：妇丧其茀，勿逐，七日得。",
+          "3": "九三：高宗伐鬼方，三年克之，小人勿用。",
+          "4": "六四：繻有衣袽，终日戒。",
+          "5": "九五：东邻杀牛，不如西邻之禴祭，实受其福。",
+          "6": "上六：濡其首，厉。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征完成后的稳定。成功后更需谨慎维护。",
+        "summary_en": "This hexagram represents completion. After success, vigilance maintains order.",
+        "lines_explained_cn": {
+          "1": "稳步收尾。",
+          "2": "失而复得。",
+          "3": "长期努力终见成果。",
+          "4": "完成后仍需防范。",
+          "5": "真诚胜过形式。",
+          "6": "大意可能带来风险。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Finish carefully.",
+          "2": "Loss may return.",
+          "3": "Persistence brings victory.",
+          "4": "Remain cautious after success.",
+          "5": "Substance over display.",
+          "6": "Complacency invites danger.",
+          "extra": ""
+        }
+      }
+    },
+    {
+      "id": 64,
+      "name_cn": "未济",
+      "name_en": "Before Completion",
+      "binary": "010101",
+      "classical": {
+        "judgment_cn": "亨。小狐汔济，濡其尾，无攸利。",
+        "lines_cn": {
+          "1": "初六：濡其尾，吝。",
+          "2": "九二：曳其轮，贞吉。",
+          "3": "六三：未济，征凶，利涉大川。",
+          "4": "九四：贞吉，悔亡。震用伐鬼方，三年有赏于大国。",
+          "5": "六五：贞吉，无悔。君子之光，有孚吉。",
+          "6": "上九：有孚于饮酒，无咎。濡其首，有孚失是。",
+          "extra": ""
+        }
+      },
+      "modern": {
+        "summary_cn": "此卦象征未完成的阶段。成功尚未到来，需保持谨慎与耐心。",
+        "summary_en": "This hexagram represents transition before completion. Stay patient and attentive until the end.",
+        "lines_explained_cn": {
+          "1": "小失误需修正。",
+          "2": "保持稳健。",
+          "3": "贸然前进会受阻。",
+          "4": "长期努力终得回报。",
+          "5": "诚信与光明引导成功。",
+          "6": "最后阶段仍需警觉。",
+          "extra": ""
+        },
+        "lines_explained_en": {
+          "1": "Correct small errors early.",
+          "2": "Steady effort wins.",
+          "3": "Rash advance fails.",
+          "4": "Long effort gains reward.",
+          "5": "Integrity guides completion.",
+          "6": "Stay alert at the finish.",
+          "extra": ""
+        }
+      }
+    }
+  ]
+}

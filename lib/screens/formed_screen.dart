@@ -3,11 +3,14 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
+import '../models/hexagram.dart';
 import '../widgets/star_field.dart';
 import 'result_screen.dart';
 
 class FormingScreen extends StatefulWidget {
-  const FormingScreen({super.key});
+  const FormingScreen({super.key, required this.hexagram});
+
+  final Hexagram hexagram;
 
   @override
   State<FormingScreen> createState() => _FormingScreenState();
@@ -52,7 +55,7 @@ class _FormingScreenState extends State<FormingScreen>
         Navigator.of(context).pushReplacement(
           PageRouteBuilder(
             transitionDuration: const Duration(milliseconds: 700),
-            pageBuilder: (_, __, ___) => const ResultScreen(),
+            pageBuilder: (_, __, ___) => ResultScreen(hexagram: widget.hexagram),
             transitionsBuilder: (_, animation, __, child) {
               return Stack(
                 fit: StackFit.expand,

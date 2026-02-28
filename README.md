@@ -44,8 +44,17 @@ A Flutter divination app themed around the I Ching / Book of Changes (周易). D
 ### 4. ResultScreen (`lib/screens/result_screen.dart`)
 - Staggered entrance: hex scale/fade → text fade → button fade
 - 6 hexagram lines drawn bottom-to-top with traveling light sweep
-- Displays placeholder hexagram 需 (Waiting) with classical text + modern interpretation
-- "ASK AGAIN" button → returns to HomeScreen
+- Loads random hexagram from data; shows name, judgment, summary, and one random line
+- "ASK AGAIN" button → returns to HomeScreen  
+- **Note:** Data is loaded but the layout/design does not yet reflect it well — see [Next: Result screen](#next-result-screen) below.
+
+---
+
+## Data: 64 hexagrams (`assets/data/hexagrams.json`)
+
+- **Schema:** `_meta` (binary_convention: bottom_to_top, yin: 0, yang: 1) + `hexagrams` array. Each item: `id`, `name_cn`, `name_en`, `binary` (6 chars), `classical` (judgment_cn, lines_cn 1–6), `modern` (summary_cn/en, lines_explained_cn/en 1–6). Source: [ctext.org Book of Changes](https://ctext.org/book-of-changes).
+- **Flow:** ShakeScreen (6 taps) → `loadHexagrams()` → `getRandomHexagram()` → FormingScreen(hexagram) → ResultScreen(hexagram). Result shows one random line (classical + modern) in addition to judgment and summary.
+- **Validation:** All 64 entries present, IDs 1–64 in King Wen order; duplicate binaries for 45 萃 and 48 井 were corrected (now 000110 and 011010 respectively).
 
 ---
 
@@ -68,6 +77,10 @@ A Flutter divination app themed around the I Ching / Book of Changes (周易). D
 ```
 lib/
 ├── main.dart
+├── data/
+│   └── hexagram_data.dart      # loadHexagrams(), getRandomHexagram()
+├── models/
+│   └── hexagram.dart           # Hexagram, fromJson, lines from binary
 ├── screens/
 │   ├── home_screen.dart
 │   ├── shake_screen.dart
@@ -75,7 +88,17 @@ lib/
 │   └── result_screen.dart
 └── widgets/
     └── star_field.dart
+assets/data/
+└── hexagrams.json              # 64 hexagrams (King Wen order)
 ```
+
+---
+
+## Recent work (summary)
+
+- **Hexagram data:** Added hexagrams 36–64 to `assets/data/hexagrams.json` so all 64 King Wen hexagrams are present with classical (judgment + 6 lines) and modern (summary + line explanations in CN/EN).
+- **Validation:** Checked completeness, order, and schema; found and fixed two duplicate binary codes: **45 萃** → `000110`, **48 井** → `011010`. All 64 binaries are now unique and match the bottom-to-top convention.
+- **Result flow:** Shake → Forming → Result already passes the selected hexagram and shows name, judgment, summary, and one random line; the **result screen layout does not yet reflect the data well** (see next plan).
 
 ---
 
@@ -90,12 +113,12 @@ Comparison against the Figma Make reference design (`I Ching Divination App UI`)
 
 ### 🔴 Critical (Core Functionality)
 
-**1. Hexagram data model & random selection**
-- Define a `Hexagram` class with fields: `number`, `chineseName`, `englishName`, `lines` (6 booleans), `jingwen`, `description`, `cizhuan`, `xiangwen`, `chuanyi`
-- Implement at minimum the 8 hexagrams from the design; aim for all 64
-- Add a `getRandomHexagram()` function
-- Pass the selected hexagram through the navigation chain: ShakeScreen → FormingScreen → ResultScreen
-- Replace the hardcoded 需 placeholder in ResultScreen with dynamic data
+**1. Hexagram data model & random selection** ✅ (data complete; UI pending)
+- `Hexagram` model and `hexagrams.json` (all 64) with classical + modern text; `loadHexagrams()`, `getRandomHexagram()`; hexagram passed Shake → Forming → Result.
+- **Remaining:** Result screen design/layout does not yet reflect the data properly — fix in next session (see **Next: Result screen** below).
+
+**Next: Result screen (data ↔ design)**  
+- Redesign or adjust ResultScreen so the loaded hexagram (name_cn/en, judgment_cn, summary, selected line text) is clearly visible and well laid out. The current design does not reflect the data properly.
 
 **2. Real shake sensor support**
 - Add `sensors_plus` to `pubspec.yaml`
@@ -127,10 +150,10 @@ Comparison against the Figma Make reference design (`I Ching Divination App UI`)
 
 ## Next Steps
 
-- [ ] Add hexagram data JSON + mapping logic (all 64 hexagrams)
+- [x] Hexagram data JSON + mapping (all 64 in King Wen order; validated, duplicate binaries fixed)
+- [ ] **Result screen:** Fix layout/design so the loaded hexagram data is clearly reflected (names, judgment, summary, line content); current data does not show well in the design
 - [ ] Add shake sensor support (`sensors_plus` package)
 - [ ] Add haptic feedback on tap/shake
-- [ ] Replace placeholder hexagram with data-driven values
 - [ ] Wire up audio button
 
 ---

@@ -2,6 +2,8 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
+import '../data/hexagram_data.dart';
+import '../models/hexagram.dart';
 import '../widgets/star_field.dart';
 import 'formed_screen.dart';
 
@@ -43,15 +45,17 @@ class _ShakeScreenState extends State<ShakeScreen>
     )..repeat();
   }
 
-  void _increment() {
+  Future<void> _increment() async {
     if (_count >= _maxCount) {
-      if (!mounted) {
-        return;
-      }
+      if (!mounted) return;
+      final list = await loadHexagrams();
+      if (!mounted) return;
+      final hexagram = getRandomHexagram(list);
+      if (!mounted) return;
       Navigator.of(context).pushReplacement(
         PageRouteBuilder(
           transitionDuration: const Duration(milliseconds: 700),
-          pageBuilder: (_, __, ___) => const FormingScreen(),
+          pageBuilder: (_, __, ___) => FormingScreen(hexagram: hexagram),
           transitionsBuilder: (_, animation, __, child) {
             return Stack(
               fit: StackFit.expand,

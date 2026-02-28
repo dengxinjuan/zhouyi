@@ -1,11 +1,15 @@
+import 'dart:math';
 import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
+import '../models/hexagram.dart';
 import '../widgets/star_field.dart';
 
 class ResultScreen extends StatefulWidget {
-  const ResultScreen({super.key});
+  const ResultScreen({super.key, required this.hexagram});
+
+  final Hexagram hexagram;
 
   @override
   State<ResultScreen> createState() => _ResultScreenState();
@@ -20,10 +24,12 @@ class _ResultScreenState extends State<ResultScreen>
   late final Animation<double> _textOpacity;
   late final Animation<double> _buttonOpacity;
   late final List<Animation<double>> _lineProgress;
+  late final int _randomLineIndex;
 
   @override
   void initState() {
     super.initState();
+    _randomLineIndex = 1 + Random().nextInt(6);
     _controller = AnimationController(
       vsync: this,
       duration: const Duration(milliseconds: 900),
@@ -77,6 +83,51 @@ class _ResultScreenState extends State<ResultScreen>
     super.dispose();
   }
 
+  List<Widget> _buildRandomLineBlock() {
+    final key = '$_randomLineIndex';
+    final classicalLine =
+        widget.hexagram.classical.linesCn[key]?.trim() ?? '';
+    final modernLine =
+        widget.hexagram.modern.linesExplainedEn[key]?.trim() ?? '';
+    if (classicalLine.isEmpty && modernLine.isEmpty) return [];
+
+    return [
+      const SizedBox(height: 16),
+      Text(
+        'Line $_randomLineIndex',
+        style: const TextStyle(
+          color: Color(0xFF9B8C7A),
+          fontSize: 12,
+          letterSpacing: 1,
+        ),
+      ),
+      if (classicalLine.isNotEmpty) ...[
+        const SizedBox(height: 6),
+        Text(
+          classicalLine,
+          textAlign: TextAlign.center,
+          style: const TextStyle(
+            color: Color(0xFFB9A891),
+            fontSize: 13,
+            height: 1.5,
+          ),
+        ),
+      ],
+      if (modernLine.isNotEmpty) ...[
+        const SizedBox(height: 6),
+        Text(
+          modernLine,
+          textAlign: TextAlign.center,
+          style: const TextStyle(
+            color: Color(0xFF9B8C7A),
+            fontSize: 12,
+            height: 1.5,
+          ),
+        ),
+      ],
+    ];
+  }
+
   @override
   Widget build(BuildContext context) {
     final size = MediaQuery.sizeOf(context);
@@ -128,11 +179,12 @@ class _ResultScreenState extends State<ResultScreen>
                       opacity: _hexOpacity,
                       child: ScaleTransition(
                         scale: _hexScale,
-                        child: AnimatedBuilder(
+                          child: AnimatedBuilder(
                           animation: _lineController,
                           builder: (context, child) {
                             return _HexagramView(
                               width: hexWidth,
+                              lines: widget.hexagram.lines,
                               lineProgress: _lineProgress,
                               glowPass: _lineController.value,
                             );
@@ -144,45 +196,46 @@ class _ResultScreenState extends State<ResultScreen>
                     FadeTransition(
                       opacity: _textOpacity,
                       child: Column(
-                        children: const [
+                        children: [
                           Text(
-                            '需',
-                            style: TextStyle(
+                            widget.hexagram.nameCn,
+                            style: const TextStyle(
                               color: Color(0xFFE7D7C5),
                               fontSize: 28,
                               fontWeight: FontWeight.w600,
                               letterSpacing: 2,
                             ),
                           ),
-                          SizedBox(height: 6),
+                          const SizedBox(height: 6),
                           Text(
-                            'Hexagram: Waiting',
-                            style: TextStyle(
+                            'Hexagram: ${widget.hexagram.nameEn}',
+                            style: const TextStyle(
                               color: Color(0xFF9B8C7A),
                               fontSize: 14,
                               letterSpacing: 1,
                             ),
                           ),
-                          SizedBox(height: 20),
+                          const SizedBox(height: 20),
                           Text(
-                            '有孚，光亨，贞吉。利涉大川。',
+                            widget.hexagram.classical.judgmentCn,
                             textAlign: TextAlign.center,
-                            style: TextStyle(
+                            style: const TextStyle(
                               color: Color(0xFFB9A891),
                               fontSize: 14,
                               height: 1.6,
                             ),
                           ),
-                          SizedBox(height: 10),
+                          const SizedBox(height: 10),
                           Text(
-                            'Patience and nourishment. Wait for the right moment.',
+                            widget.hexagram.modern.summaryEn,
                             textAlign: TextAlign.center,
-                            style: TextStyle(
+                            style: const TextStyle(
                               color: Color(0xFF9B8C7A),
                               fontSize: 13,
                               height: 1.6,
                             ),
                           ),
+                          ..._buildRandomLineBlock(),
                         ],
                       ),
                     ),
@@ -228,11 +281,13 @@ class _ResultScreenState extends State<ResultScreen>
 class _HexagramView extends StatelessWidget {
   const _HexagramView({
     required this.width,
+    required this.lines,
     required this.lineProgress,
     required this.glowPass,
   });
 
   final double width;
+  final List<bool> lines;
   final List<Animation<double>> lineProgress;
   final double glowPass;
 
@@ -243,6 +298,7 @@ class _HexagramView extends StatelessWidget {
     return CustomPaint(
       size: Size(width, height),
       painter: _HexagramGlowPainter(
+        lines: lines,
         lineProgress: lineProgress,
         glowPass: glowPass,
       ),
@@ -252,28 +308,29 @@ class _HexagramView extends StatelessWidget {
 
 class _HexagramGlowPainter extends CustomPainter {
   _HexagramGlowPainter({
+    required this.lines,
     required this.lineProgress,
     required this.glowPass,
   }) : super(repaint: lineProgress.isEmpty ? null : Listenable.merge(lineProgress));
 
+  final List<bool> lines;
   final List<Animation<double>> lineProgress;
   final double glowPass;
 
   @override
   void paint(Canvas canvas, Size size) {
-    // TODO: replace with actual hexagram data.
-    const lines = [true, true, true, false, true, false];
+    final lineCount = lines.length.clamp(0, 6);
     final lineHeight = size.height * 0.10;
     final gap = size.height * 0.06;
     final brokenGap = size.width * 0.16;
     final color = const Color(0xFFB58A55);
 
     final totalHeight =
-        (lineHeight * lines.length) + (gap * (lines.length - 1));
+        (lineHeight * lineCount) + (gap * (lineCount - 1));
     final startY = (size.height - totalHeight) / 2;
 
-    for (var i = 0; i < lines.length; i++) {
-      final isSolid = lines[lines.length - 1 - i];
+    for (var i = 0; i < lineCount; i++) {
+      final isSolid = lines[lineCount - 1 - i];
       final progress = lineProgress[i].value;
       final opacity = lerpDouble(0.4, 1.0, progress)!;
       final glowOpacity = lerpDouble(0.12, 0.45, progress)!;
